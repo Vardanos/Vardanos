@@ -52,7 +52,7 @@ Transition (it needs a precursor project).
   academic lead. Some disease funders outside Denovo's areas (Alzheimer's, T1D,
   IBD) therefore rank above, for example, the homocystinuria-specific HCU Network.
   Read the score together with the notes.
-- Records marked `verified: false` (about a third) come from prior knowledge.
+- Records marked `verified: false` (42 of 101) come from prior knowledge.
   They were not checked against a 2026 source in this run. Confirm eligibility
   and dates before applying.
 - The company profile comes from public sources (Gust, CB Insights, press). It
