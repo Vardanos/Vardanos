@@ -1,0 +1,14 @@
+{
+ "id": "102",
+ "hypothesis": "Verify (run 2): the US parent can apply to NIH as a domestic for-profit; Armenian work is a foreign component needing prior approval",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "nih-r01-foreign": {
+   "eligibility": "direct",
+   "program": "R01/R21/U01 research grants (US for-profit applicant, foreign component)",
+   "notes": "US C-corp applies as a domestic for-profit (non-modular); work in Yerevan is a foreign component requiring NIH prior approval, and NIH restricted foreign subawards in 2025 — keeping key work in-house or with US partners (Emory/UCSD) avoids that."
+  }
+ },
+ "remove": []
+}

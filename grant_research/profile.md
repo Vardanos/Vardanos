@@ -3,10 +3,15 @@
 The fixed target that `evaluate.py` scores against. Built from public sources
 in October 2026; correct it if the company's situation differs.
 
-- **Entity:** Denovo Sciences LLC, Yerevan, Armenia, founded 2019
-  (Gust; CB Insights). Co-founders Hovakim Zakaryan (CEO) and Mher Matevosyan.
-  No foreign subsidiary found in public sources — this matters for US/UK-only
-  programmes.
+- **Entity:** US-headquartered Delaware C-corp with no US office, majority
+  owned by non-US (Armenian) persons, operating through Denovo Sciences LLC in
+  Yerevan, Armenia (founded 2019; Gust, CB Insights). Co-founders Hovakim
+  Zakaryan (CEO) and Mher Matevosyan. *Run 2 (experiments 101+) uses this
+  structure, confirmed by the company; run 1 assumed an Armenian LLC only.*
+  Consequences: US federal grants/BAAs can be received by a domestic
+  applicant (with foreign-component approval for work done in Armenia), but
+  SBIR/STTR and other "majority US-owned" programmes are closed; EU programmes
+  must be applied for by the Armenian LLC.
 - **Technology:** end-to-end AI drug-discovery platform; reinforcement-learning
   generative chemistry driven by physics-based simulations of drug–target
   interactions ("synthetic data") rather than large experimental datasets.

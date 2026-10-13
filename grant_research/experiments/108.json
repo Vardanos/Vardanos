@@ -1,0 +1,24 @@
+{
+ "id": "108",
+ "hypothesis": "NCATS BrIDGs provides IND-enabling studies to companies",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ncats-bridgs",
+   "funder": "US NIH — NCATS",
+   "program": "Bridging Interventional Development Gaps (BrIDGs)",
+   "url": "https://ncats.nih.gov/research/research-activities/trnd/work",
+   "eligibility": "ineligible",
+   "topic": "life_sciences",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "For-profits must be SBIR-eligible — Denovo is not."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

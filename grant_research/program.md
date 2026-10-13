@@ -28,3 +28,10 @@ Adapted from karpathy/autoresearch. There, an agent edits `train.py`, trains for
 6. Prefer simplicity: one programme per record; a funder with many unrelated
    calls gets one record per call family, not per deadline.
 7. Stop after 100 experiments and run `python run.py --report`.
+
+## Run 2
+
+Experiments 101+ start from run 1's pool after the profile was corrected
+(US Delaware parent, majority non-US owned). `evaluate.py` is unchanged; the
+first experiments of run 2 are `verify` experiments that re-state eligibility
+under the new structure.

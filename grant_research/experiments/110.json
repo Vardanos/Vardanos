@@ -1,0 +1,24 @@
+{
+ "id": "110",
+ "hypothesis": "US-based affiliates of foreign companies can join DoD medical-countermeasure OTA consortia (MCDC) and bid on prototype projects",
+ "kind": "add",
+ "add": [
+  {
+   "id": "mcdc",
+   "funder": "Medical CBRN Defense Consortium (DoD JPEO-CBRND)",
+   "program": "Requests for Prototype Projects (OTA)",
+   "url": "https://www.hhs.gov/sites/default/files/rpp-20-11.pdf",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 5000000.0,
+   "verified": false,
+   "notes": "Membership open (fee); a sister consortium admits US-based affiliates of foreign companies — confirm MCDC terms; antiviral/antibacterial countermeasures in scope."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

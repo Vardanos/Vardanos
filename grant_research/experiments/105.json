@@ -1,0 +1,24 @@
+{
+ "id": "105",
+ "hypothesis": "US in-kind: NIAID preclinical services (incl. Antiviral Program for Pandemics) serve industry at domestic or foreign institutions",
+ "kind": "add",
+ "add": [
+  {
+   "id": "niaid-preclinical",
+   "funder": "US NIAID (DMID)",
+   "program": "Preclinical product-development services incl. Antiviral Program for Pandemics",
+   "url": "https://www.niaid.nih.gov/research/preclinical-product-development-services-infectious-disease",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Free/low-cost in vitro/in vivo efficacy, ADME-tox, PK for antivirals and antibacterials; industry eligible worldwide, no NIH grant needed. Directly de-risks Denovo's RNA-virus and antibiotic hits."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

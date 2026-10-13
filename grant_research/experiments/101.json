@@ -1,0 +1,15 @@
+{
+ "id": "101",
+ "hypothesis": "Verify (run 2): a majority non-US-owned Delaware parent with no US operations is still SBIR/STTR-ineligible",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "nih-sbir": {
+   "eligibility": "ineligible",
+   "verified": true,
+   "url": "https://www.sbir.gov/faq/eligibility-requirements",
+   "notes": "Needs >50% ownership by US citizens/permanent residents (or qualifying US firms), a US place of business and US-performed work. Denovo's US parent fails ownership; opening it would need a cap-table change plus US operations."
+  }
+ },
+ "remove": []
+}

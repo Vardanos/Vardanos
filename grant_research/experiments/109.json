@@ -1,0 +1,24 @@
+{
+ "id": "109",
+ "hypothesis": "BARDA DRIVe EZ-BAA gives the US parent fast awards up to ~$750k",
+ "kind": "add",
+ "add": [
+  {
+   "id": "barda-drive-ezbaa",
+   "funder": "US HHS — BARDA DRIVe",
+   "program": "EZ-BAA (BAA-22-100-SOL-00003)",
+   "url": "https://www.egr.uh.edu/research/resources/funding-opportunities/2024/barda-drive-ez-baa-ezbaa-22-100-sol-00003-%E2%80%93-influenza",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "partner_country",
+   "status": "open",
+   "max_award_usd": 750000.0,
+   "verified": true,
+   "notes": "Open to Oct 2027 via SAM.gov-registered US entity; current topics are influenza vaccines and agnostic diagnostics — watch for a therapeutics amendment."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

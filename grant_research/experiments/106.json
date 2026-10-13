@@ -1,0 +1,24 @@
+{
+ "id": "106",
+ "hypothesis": "US in-kind: NCATS TRND partners with for-profit (incl. foreign) companies on orphan diseases — homocystinuria qualifies",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ncats-trnd",
+   "funder": "US NIH — NCATS",
+   "program": "Therapeutics for Rare and Neglected Diseases (TRND)",
+   "url": "https://ncats.nih.gov/research/research-activities/trnd/work",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "NCATS scientists run preclinical development in collaboration; companies and foreign organisations eligible; disease must meet FDA orphan criteria (HCU does)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

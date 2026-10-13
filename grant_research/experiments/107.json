@@ -1,0 +1,24 @@
+{
+ "id": "107",
+ "hypothesis": "NCI NExT gives oncology drug-development resources to companies",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nci-next",
+   "funder": "US NCI",
+   "program": "NCI Experimental Therapeutics (NExT)",
+   "url": "https://dctd.cancer.gov/drug-discovery-development/services/next/application-process",
+   "eligibility": "ineligible",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Limited to entities 'with a majority US backed holding' — Denovo is majority non-US owned; no cycle dates planned."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

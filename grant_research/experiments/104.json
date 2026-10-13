@@ -1,0 +1,15 @@
+{
+ "id": "104",
+ "hypothesis": "Verify (run 2): EIC applicant must be the Armenian LLC; the US parent's headcount/finances count toward SME status",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "eic-accelerator": {
+   "notes": "The Armenian LLC applies (established in an associated country); US parent is a linked enterprise for SME tests. Short proposal any time; full-proposal cut-offs several times a year."
+  },
+  "eic-pre-accelerator": {
+   "notes": "Armenian LLC applies; because it is ≥50% owned by a non-widening (US) entity, the parent's figures are added for SME status. €300–500k at 70%."
+  }
+ },
+ "remove": []
+}

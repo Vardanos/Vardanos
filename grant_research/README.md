@@ -28,11 +28,26 @@ if `val_bpb` improves. Here ([`program.md`](program.md) has the full rules):
   from the experiment files alone. Run `python run.py --report` to regenerate the
   list.
 
-Outcome: 88 experiments kept, 11 discarded and 1 fix. Relevance@100 went from
+Run 1 outcome: 88 experiments kept, 11 discarded and 1 fix. Relevance@100 went from
 0.000 to 0.438. Examples of discards: Neruzh (diaspora founders only), EU4Innovation
 pre-seed, Wellcome Discovery (Armenia drops out from 29 Oct 2026), Global
 Innovation Fund, Hevolution, the REPAIR Impact Fund, NIAID AViDD, USAID and EIC
 Transition (it needs a precursor project).
+
+**Run 2 (experiments 101–110)** applied the confirmed corporate structure. Four
+`verify` experiments re-stated eligibility:
+- SBIR moves from needing a foreign entity to ineligible, because of ownership.
+- NIH research grants move from a partner route to a direct application by the
+  US parent.
+- The BARDA BAA is now verified for the US parent.
+- The EIC entries note that the Armenian LLC must be the applicant.
+
+Six US additions were then tested:
+- Kept: NIAID preclinical services, NCATS TRND, BARDA DRIVe EZ-BAA and MCDC.
+- Discarded: NCI NExT and NCATS BrIDGs, which require majority US ownership or
+  SBIR eligibility.
+
+Relevance@100 is now 0.461.
 
 ## Time-sensitive (as of 13 Oct 2026)
 
@@ -55,6 +70,8 @@ Transition (it needs a precursor project).
 - Records marked `verified: false` (42 of 101) come from prior knowledge.
   They were not checked against a 2026 source in this run. Confirm eligibility
   and dates before applying.
-- The company profile comes from public sources (Gust, CB Insights, press). It
-  found no US, EU or Qatari subsidiary. If one exists, the "needs foreign entity"
-  programmes (NIH SBIR, Innovate UK, QSTP, BIRAC, CPRIT) move up.
+- Corporate structure (confirmed by the company, run 2): US Delaware parent,
+  no US office, majority non-US owned, operating via the Armenian LLC. This makes
+  US grants and BAAs receivable, but SBIR/STTR, NCI NExT and NCATS BrIDGs remain
+  closed because they require majority US ownership. Innovate UK, QSTP, BIRAC and
+  CPRIT still need a local entity.

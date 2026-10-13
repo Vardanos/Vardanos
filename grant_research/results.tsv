@@ -99,3 +99,13 @@ exp	relevance@100	delta	pool_size	status	description
 098	0.430037	+0.003066	99	keep	Alzheimer's Association Part the Cloud funds companies worldwide for neurodegeneration drug programmes
 099	0.437863	+0.007826	101	keep	TB/neurodegeneration product-development partners fund external chemistry (TB Alliance via GHIT; Parkinson's UK Virtual Biotech)
 100	0.437863	+0.000000	101	discard	SSIEM (inborn errors of metabolism society) offers research grants relevant to homocystinuria
+101	0.435710	-0.002153	101	fix	Verify (run 2): a majority non-US-owned Delaware parent with no US operations is still SBIR/STTR-ineligible
+102	0.438869	+0.003160	101	keep	Verify (run 2): the US parent can apply to NIH as a domestic for-profit; Armenian work is a foreign component needing prior approval
+103	0.441442	+0.002572	101	keep	Verify (run 2): BARDA BAA accepts any responsible US source registered in SAM.gov — the US parent qualifies
+104	0.441442	+0.000000	101	keep	Verify (run 2): EIC applicant must be the Armenian LLC; the US parent's headcount/finances count toward SME status
+105	0.447767	+0.006325	102	keep	US in-kind: NIAID preclinical services (incl. Antiviral Program for Pandemics) serve industry at domestic or foreign institutions
+106	0.450302	+0.002535	103	keep	US in-kind: NCATS TRND partners with for-profit (incl. foreign) companies on orphan diseases — homocystinuria qualifies
+107	0.450302	+0.000000	103	discard	NCI NExT gives oncology drug-development resources to companies
+108	0.450302	+0.000000	103	discard	NCATS BrIDGs provides IND-enabling studies to companies
+109	0.456782	+0.006481	104	keep	BARDA DRIVe EZ-BAA gives the US parent fast awards up to ~$750k
+110	0.461432	+0.004649	105	keep	US-based affiliates of foreign companies can join DoD medical-countermeasure OTA consortia (MCDC) and bid on prototype projects

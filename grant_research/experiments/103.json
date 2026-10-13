@@ -1,0 +1,13 @@
+{
+ "id": "103",
+ "hypothesis": "Verify (run 2): BARDA BAA accepts any responsible US source registered in SAM.gov — the US parent qualifies",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "barda-baa": {
+   "verified": true,
+   "notes": "US parent can propose after SAM.gov registration; open to Sept 2028; contracts for advanced development of CBRN antivirals — needs an IND-track candidate."
+  }
+ },
+ "remove": []
+}
