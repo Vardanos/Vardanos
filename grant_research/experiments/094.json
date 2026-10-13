@@ -1,0 +1,24 @@
+{
+ "id": "094",
+ "hypothesis": "EIC Transition could take Denovo's platform to market as a single SME",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eic-transition",
+   "funder": "European Innovation Council",
+   "program": "EIC Transition",
+   "url": "https://www.hezelburcht.com/en/grants/eic-transition/",
+   "eligibility": "ineligible",
+   "topic": "deep_tech_ai",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 2500000.0,
+   "verified": true,
+   "notes": "Requires results from a precursor EIC Pathfinder/ERC PoC/Horizon RIA project — Denovo has none yet; revisit after a Pathfinder win."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

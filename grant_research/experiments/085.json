@@ -1,0 +1,24 @@
+{
+ "id": "085",
+ "hypothesis": "DNDi funds hit-to-lead partners and runs the Drug Discovery Booster for neglected diseases",
+ "kind": "add",
+ "add": [
+  {
+   "id": "dndi",
+   "funder": "Drugs for Neglected Diseases initiative",
+   "program": "Discovery partnerships / Drug Discovery Booster",
+   "url": "https://dndi.org/",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Partnership-based (CRO/company contracts); fits antiviral/anti-infective chemistry for NTDs, dengue."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

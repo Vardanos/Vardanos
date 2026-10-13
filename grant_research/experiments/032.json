@@ -1,0 +1,24 @@
+{
+ "id": "032",
+ "hypothesis": "Merck KGaA Research Grants are open to company scientists worldwide; 2026 topics include SYNTHIA-based molecule synthesis",
+ "kind": "add",
+ "add": [
+  {
+   "id": "merck-kgaa-grants",
+   "funder": "Merck KGaA, Darmstadt",
+   "program": "Merck Research Grants",
+   "url": "https://innovationbridge.info/ibportal/content/merck-research-grants-2026-eu500000-year-innovative-scientific-research",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 580000.0,
+   "verified": true,
+   "notes": "Annual (deadline ~Aug); companies eligible in past rounds; topics rotate — check for computational-chemistry/drug-discovery topic."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

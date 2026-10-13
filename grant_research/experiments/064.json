@@ -1,0 +1,24 @@
+{
+ "id": "064",
+ "hypothesis": "GARDP has open antibiotic-discovery partnerships for companies",
+ "kind": "add",
+ "add": [
+  {
+   "id": "gardp",
+   "funder": "GARDP",
+   "program": "Antibiotic R&D partnerships",
+   "url": "https://gardp.org/?p=21928",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "No open call found; partnership-driven (screening, co-development). Approach directly."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

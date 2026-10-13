@@ -1,0 +1,39 @@
+{
+ "id": "081",
+ "hypothesis": "Individual fellowships let Denovo scientists spend time in partner labs (Humboldt, Fulbright)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "humboldt",
+   "funder": "Alexander von Humboldt Foundation",
+   "program": "Humboldt Research Fellowship",
+   "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+   "eligibility": "via_founder",
+   "topic": "general",
+   "instrument": "fellowship_mobility",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 100000.0,
+   "verified": false,
+   "notes": "Postdoc/experienced researchers from any country, hosted in Germany; open year-round."
+  },
+  {
+   "id": "fulbright-armenia",
+   "funder": "US Department of State / Fulbright Armenia",
+   "program": "Fulbright Visiting Scholar Program",
+   "url": "https://am.usembassy.gov/education-culture/",
+   "eligibility": "via_founder",
+   "topic": "general",
+   "instrument": "fellowship_mobility",
+   "stage": "academic_led",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 40000.0,
+   "verified": false,
+   "notes": "Armenian scholars to US institutions (e.g. Emory/UCSD stay)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

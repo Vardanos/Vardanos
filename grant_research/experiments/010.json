@@ -1,0 +1,24 @@
+{
+ "id": "010",
+ "hypothesis": "Horizon Europe Cluster 1 (Health) collaborative calls — drug discovery, AMR and pandemic-preparedness topics — accept Armenian partners",
+ "kind": "add",
+ "add": [
+  {
+   "id": "he-cluster1-health",
+   "funder": "European Commission — Horizon Europe",
+   "program": "Cluster 1 Health collaborative projects (RIA/IA)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 8000000.0,
+   "verified": true,
+   "notes": "Associated-country entities funded like EU ones; join consortium as the AI-design SME (topics on AMR, pandemic antivirals, rare diseases)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

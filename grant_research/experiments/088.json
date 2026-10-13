@@ -1,0 +1,24 @@
+{
+ "id": "088",
+ "hypothesis": "Pfizer Global Medical Grants run competitive research RFPs open worldwide",
+ "kind": "add",
+ "add": [
+  {
+   "id": "pfizer-gmg",
+   "funder": "Pfizer",
+   "program": "Global Medical Grants — competitive research RFPs",
+   "url": "https://www.pfizer.com/about/programs-policies/grants",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 200000.0,
+   "verified": false,
+   "notes": "Topic-specific RFPs (incl. AMR, rare disease) mostly for clinical/academic institutions."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

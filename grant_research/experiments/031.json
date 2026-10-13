@@ -1,0 +1,24 @@
+{
+ "id": "031",
+ "hypothesis": "J&J Innovation QuickFire Challenges give non-dilutive awards to global innovators",
+ "kind": "add",
+ "add": [
+  {
+   "id": "jnj-quickfire",
+   "funder": "Johnson & Johnson Innovation",
+   "program": "QuickFire Challenges",
+   "url": "https://innovationbridge.info/ibportal/content/expanding-access-immunology-clinical-trials-quickfire-challenge",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "Topic-specific, irregular; no 2026 drug-discovery round found."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "068",
+ "hypothesis": "Oncology foundations funding international academic teams (PCF Challenge Awards) — partner route",
+ "kind": "add",
+ "add": [
+  {
+   "id": "pcf-challenge",
+   "funder": "Prostate Cancer Foundation",
+   "program": "Challenge Awards",
+   "url": "https://cure.pcf.org/site/DocServer/2024_Challenge_Award_RFA_2.20.24.pdf",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 1000000.0,
+   "verified": true,
+   "notes": "Up to $1M/2 yrs to teams of ≥3 non-profit academic investigators worldwide; Denovo as unfunded/subcontracted design partner. Annual deadline ~March."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

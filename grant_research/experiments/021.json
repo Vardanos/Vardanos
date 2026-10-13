@@ -1,0 +1,24 @@
+{
+ "id": "021",
+ "hypothesis": "Bayer Grants4Targets funds novel targets from start-ups worldwide in oncology, cardio, haematology, ophthalmology",
+ "kind": "add",
+ "add": [
+  {
+   "id": "bayer-g4t",
+   "funder": "Bayer",
+   "program": "Grants4Targets",
+   "url": "https://www.bayer.com/pt/pt/inovacao/inovacao-sem-fronteiras",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 135000.0,
+   "verified": false,
+   "notes": "€5k–125k + Bayer scientist support; start-ups worldwide eligible (per older call texts); oncology fits Denovo's anticancer work."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

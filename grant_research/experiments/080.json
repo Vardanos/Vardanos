@@ -1,0 +1,24 @@
+{
+ "id": "080",
+ "hypothesis": "Grand Challenges Canada lists Armenia as eligible LMIC for Stars in Global Health",
+ "kind": "add",
+ "add": [
+  {
+   "id": "gcc-stars",
+   "funder": "Grand Challenges Canada",
+   "program": "Stars in Global Health / Transition to Scale",
+   "url": "https://www.grandchallenges.ca/programs/transition-to-scale/",
+   "eligibility": "as_partner",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 2200000.0,
+   "verified": true,
+   "notes": "Armenia on past eligibility lists, but focus areas (maternal/newborn, digital health, devices) don't include drug discovery; TTS invite-only."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

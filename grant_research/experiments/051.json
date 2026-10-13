@@ -1,0 +1,39 @@
+{
+ "id": "051",
+ "hypothesis": "Armenian EIF matching grants (World Bank/EU legacy) co-finance startups",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eif-matching",
+   "funder": "Enterprise Incubator Foundation",
+   "program": "Innovation & Regional Matching Grants",
+   "url": "https://blog.eif.am/my-eif-series-innovation-and-regional-matching-grants-program-supporting-startups-in-armenia/",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "intermittent",
+   "max_award_usd": 15000.0,
+   "verified": true,
+   "notes": "~100 startups since 2015, up to AMD 5.7M (~$15k) co-financing; last call 2023."
+  },
+  {
+   "id": "eif-horizon-support",
+   "funder": "Enterprise Incubator Foundation / SIPAC",
+   "program": "Horizon Europe application acceleration",
+   "url": "https://www.eif.am/eng/news/new-acceleration-program-for-armenian-startups",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Free help preparing EIC/Horizon proposals — a force multiplier for the EIC entries above."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "061",
+ "hypothesis": "Malaria/NTD product-development partnerships (MMV) fund drug-discovery partners worldwide incl. computational work",
+ "kind": "add",
+ "add": [
+  {
+   "id": "mmv",
+   "funder": "Medicines for Malaria Venture",
+   "program": "Annual drug-discovery call for proposals",
+   "url": "https://research-authority.tau.ac.il/grants/9624",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 300000.0,
+   "verified": true,
+   "notes": "Annual LOI ~February; no fixed cap; companies and academia eligible; the separate African call covers computer-aided discovery but is Africa-only."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

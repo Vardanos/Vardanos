@@ -1,0 +1,24 @@
+{
+ "id": "020",
+ "hypothesis": "Global Health EDCTP3 funds infectious-disease drug R&D with associated-country partners",
+ "kind": "add",
+ "add": [
+  {
+   "id": "edctp3",
+   "funder": "Global Health EDCTP3 JU",
+   "program": "Annual calls (poverty-related infectious diseases)",
+   "url": "https://www.global-health-edctp3.europa.eu/results-and-insights/participating-countries-and-organisations_fr",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 5000000.0,
+   "verified": false,
+   "notes": "Needs sub-Saharan African partners; mostly clinical — only fits if an anti-infective reaches clinic."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

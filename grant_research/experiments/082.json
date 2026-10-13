@@ -1,0 +1,24 @@
+{
+ "id": "082",
+ "hypothesis": "Armenian Ministry of High-Tech + Plug and Play Germany acceleration is a non-cash route to EU pharma partners",
+ "kind": "add",
+ "add": [
+  {
+   "id": "mhti-plugandplay",
+   "funder": "Ministry of High-Tech Industry (RA) & Plug and Play Germany",
+   "program": "26-week acceleration programme",
+   "url": "https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/acceleration-program-application",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "State-funded acceleration for startups operating in Armenia; corporate-partner introductions."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

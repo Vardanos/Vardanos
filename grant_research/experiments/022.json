@@ -1,0 +1,24 @@
+{
+ "id": "022",
+ "hypothesis": "Homocystinuria programme → HCU Network America/Australia fund new HCU therapies (academic PI; WCM-Q/Sidra could lead)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hcu-network",
+   "funder": "HCU Network America & HCU Network Australia",
+   "program": "Homocystinuria research grants",
+   "url": "https://research-authority.tau.ac.il/sites/resauth.tau.ac.il/files/HCU_Network_Full-Expression-of-Interest%202023.pdf",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 40000.0,
+   "verified": true,
+   "notes": "Up to $40k, no overhead; priorities incl. new HCU therapies; PI must be at an academic institution — WCM-Q as lead, Denovo as design partner. Last call 2023."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

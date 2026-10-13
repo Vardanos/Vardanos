@@ -1,0 +1,14 @@
+{
+ "id": "097",
+ "hypothesis": "Verify: NIH accepts foreign (incl. for-profit) applicants for research project grants, but not SBIR/STTR, centres or training grants",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "nih-r01-foreign": {
+   "verified": true,
+   "url": "https://www.grants.nih.gov/grants/policy/nihgps/HTML5/section_16/16.2_eligibility.htm",
+   "notes": "Foreign for-profits may apply (non-modular) when the NOFO allows; realistic route is a US-led grant with Emory/UCSD — NIH restricted foreign subawards in 2025, so check the current foreign-collaboration mechanism."
+  }
+ },
+ "remove": []
+}

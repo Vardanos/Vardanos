@@ -1,0 +1,24 @@
+{
+ "id": "055",
+ "hypothesis": "COST Actions reimburse Armenian participants (networking, STSMs) — cheap access to EU drug-discovery networks",
+ "kind": "add",
+ "add": [
+  {
+   "id": "cost-actions",
+   "funder": "COST Association",
+   "program": "COST Actions (networking, short-term missions)",
+   "url": "https://www.cost.eu/supporting-researchers-in-armenia/",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 5000,
+   "verified": true,
+   "notes": "Armenia participates (Horizon-associated, NNC since 2016); travel/networking funds only."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

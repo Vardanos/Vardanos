@@ -1,0 +1,24 @@
+{
+ "id": "089",
+ "hypothesis": "CPRIT product-development awards are large but require operating in Texas",
+ "kind": "add",
+ "add": [
+  {
+   "id": "cprit",
+   "funder": "Cancer Prevention and Research Institute of Texas",
+   "program": "Product Development Research awards",
+   "url": "https://www.cprit.texas.gov/",
+   "eligibility": "needs_foreign_entity",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 20000000.0,
+   "verified": false,
+   "notes": "Up to ~$20M; company must relocate/operate in Texas."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

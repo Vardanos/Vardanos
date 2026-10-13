@@ -1,0 +1,24 @@
+{
+ "id": "006",
+ "hypothesis": "ANSEF small grants fund Armenian researchers' stipends — usable by Denovo scientists as individuals",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ansef",
+   "funder": "ANSEF / Fund for Armenian Relief",
+   "program": "Yervant Terzian research competition",
+   "url": "https://ansef.org/press-releases/2025/9/20/00o2jht2kk207v5jvkcfrn3h4l37ax",
+   "eligibility": "via_founder",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": 7500,
+   "verified": true,
+   "notes": "$7.5k stipend grant; only one award in molecular/human biology per cycle — low value."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

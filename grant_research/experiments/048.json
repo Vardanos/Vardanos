@@ -1,0 +1,39 @@
+{
+ "id": "048",
+ "hypothesis": "Rare inborn-errors-of-metabolism foundations (PKU, cystinosis) fund academic PIs internationally — partner route for metabolic programme",
+ "kind": "add",
+ "add": [
+  {
+   "id": "npkua",
+   "funder": "National PKU Alliance",
+   "program": "Research grant proposals",
+   "url": "https://www.npkua.org/research/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "$25–100k/yr; international academic PIs; industry staff ineligible — via WCM-Q or Armenian institute. Annual deadline ~June."
+  },
+  {
+   "id": "crf",
+   "funder": "Cystinosis Research Foundation",
+   "program": "Research & fellowship grants (spring/fall)",
+   "url": "https://www.cystinosisresearch.org/apply-for-research-grant",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 300000.0,
+   "verified": true,
+   "notes": "Twice-yearly global calls; academic PIs; cystinosis is another sulfur-amino-acid metabolic disorder near HCU."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

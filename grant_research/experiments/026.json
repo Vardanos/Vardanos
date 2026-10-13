@@ -1,0 +1,24 @@
+{
+ "id": "026",
+ "hypothesis": "Global Innovation Fund backs for-profit innovators worldwide via grants",
+ "kind": "add",
+ "add": [
+  {
+   "id": "gif",
+   "funder": "Global Innovation Fund",
+   "program": "Innovation grants/investments",
+   "url": "https://www.developmentaid.org/grants/view/1659239/global-innovation-fund-opens-opportunities-for-startups-and-social-enterprises-worldwide",
+   "eligibility": "ineligible",
+   "topic": "general",
+   "instrument": "grant_equity",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 15000000.0,
+   "verified": true,
+   "notes": "Impact must be in low/lower-middle-income countries; drug discovery platform does not fit the poverty-impact model."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

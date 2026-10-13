@@ -1,0 +1,24 @@
+{
+ "id": "100",
+ "hypothesis": "SSIEM (inborn errors of metabolism society) offers research grants relevant to homocystinuria",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ssiem",
+   "funder": "SSIEM",
+   "program": "Awards & grants",
+   "url": "https://www.ssiem.org/34-uncategorised/awards-grants.html",
+   "eligibility": "ineligible",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "academic_led",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Only patient-organisation donations and meeting support — no research grants for companies."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "003",
+ "hypothesis": "Armenian national science funding (HESC) is reachable through an Armenian research institute partner",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hesc-research-grants",
+   "funder": "Higher Education and Science Committee (RA)",
+   "program": "Thematic, basic & applied research grant programmes",
+   "url": "https://www.hesc.am/?p=8886",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "~20 programmes; lead must be an Armenian scientific organisation — partner with e.g. Institute of Molecular Biology NAS RA."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

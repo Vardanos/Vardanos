@@ -1,0 +1,24 @@
+{
+ "id": "023",
+ "hypothesis": "Rare-disease foundations: NORD's research grant programme funds international researchers per-disease",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nord-research",
+   "funder": "NORD",
+   "program": "Rare Disease Research Grant Program",
+   "url": "https://rarediseases.org/current-funding-opportunity-nord-research-grants-for-rare-diseases/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 50000.0,
+   "verified": true,
+   "notes": "Seed grants $30–50k per disease (e.g. malonic aciduria — another inborn error of metabolism); international PIs welcome, companies via academic collaborator."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,16 @@
+{
+ "id": "096",
+ "hypothesis": "Verify: EuroHPC access policy covers industry established in Horizon Europe associated countries; drop zero-value Neruzh record",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "eurohpc-ai-factories": {
+   "verified": true,
+   "url": "https://eurohpc-ju.europa.eu/ai-factories/faqs-ai-factories_en",
+   "notes": "Industrial Innovation track free for AI SMEs/startups in Member States and associated countries (Playground ≤2 days, Fast Lane ≤50k GPU-h, Large Scale >50k GPU-h)."
+  }
+ },
+ "remove": [
+  "mhti-neruzh"
+ ]
+}

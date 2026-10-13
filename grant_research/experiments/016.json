@@ -1,0 +1,24 @@
+{
+ "id": "016",
+ "hypothesis": "NIH research project grants (R01/R21) accept foreign organisations, incl. companies; a US partner (Emory/UCSD) can also subaward",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nih-r01-foreign",
+   "funder": "US National Institutes of Health",
+   "program": "R01/R21 research grants (foreign applicant or foreign component)",
+   "url": "https://grants.nih.gov/grants/policy/nihgps/html5/section_16/16_foreign_organizations.htm",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 2500000.0,
+   "verified": false,
+   "notes": "Direct foreign applications are allowed but rarely funded; realistic route is a subaward under Emory/UCSD collaborators."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

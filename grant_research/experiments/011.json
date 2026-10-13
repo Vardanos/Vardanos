@@ -1,0 +1,24 @@
+{
+ "id": "011",
+ "hypothesis": "Innovative Health Initiative (IHI JU) funds SMEs from associated countries in public-private drug-R&D consortia",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ihi-ju",
+   "funder": "Innovative Health Initiative JU",
+   "program": "IHI calls for proposals",
+   "url": "https://www.ihi.europa.eu/apply-funding",
+   "eligibility": "as_partner",
+   "topic": "ai_drug_discovery",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 5000000.0,
+   "verified": false,
+   "notes": "Pharma-industry co-designed topics incl. AI in drug development; SMEs funded at 100% RIA rate."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

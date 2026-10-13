@@ -1,0 +1,24 @@
+{
+ "id": "009",
+ "hypothesis": "EU4Innovation East Armenia calls fund startups directly",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eu4innovation-preseed",
+   "funder": "EU4Innovation East (EU)",
+   "program": "Pre-seed MVP support platform (€7.5k per startup)",
+   "url": "https://www2.fundsforngos.org/innovation/grant-for-establishing-a-pre-seed-support-platform-for-mvp-development-and-validation-in-armenia/",
+   "eligibility": "ineligible",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "closed",
+   "max_award_usd": 8000,
+   "verified": true,
+   "notes": "Call is for platform operators; Denovo is past MVP stage; deadline June 2026 passed."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

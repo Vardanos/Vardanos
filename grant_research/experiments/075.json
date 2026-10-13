@@ -1,0 +1,24 @@
+{
+ "id": "075",
+ "hypothesis": "AstraZeneca open innovation gives compound-library and target-collaboration access",
+ "kind": "add",
+ "add": [
+  {
+   "id": "az-open-innovation",
+   "funder": "AstraZeneca",
+   "program": "Open Innovation (compound library screening, R&D challenges)",
+   "url": "https://www.cambridgenetwork.co.uk/news/new-open-innovation-platform-offers-access-compound-bank-and-partnering-programmes",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 40000.0,
+   "verified": true,
+   "notes": "Mostly academic consortia (ADDC); $20–40k support + library; useful benchmark data for Denovo's models."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

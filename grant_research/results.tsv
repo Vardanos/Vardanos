@@ -1,0 +1,101 @@
+exp	relevance@100	delta	pool_size	status	description
+001	0.007498	+0.007498	1	keep	Baseline: Armenia is a Horizon Europe associated country, so the EIC Accelerator is open to an Armenian SME on equal terms
+002	0.011930	+0.004432	2	keep	Armenia is a Horizon Europe 'widening' country, so the EIC Pre-Accelerator (TRL4-5, €300-500k) is open
+003	0.016295	+0.004365	3	keep	Armenian national science funding (HESC) is reachable through an Armenian research institute partner
+004	0.020728	+0.004433	4	keep	HESC's 2026 Remote Laboratories / Integration grants let a foreign PI build a group in Armenia — usable to bring a diaspora medicinal chemist
+005	0.025051	+0.004323	5	keep	FAST ADVANCE research grants pair international scientists with Armenian groups — a route to fund wet-lab validation
+006	0.027792	+0.002741	6	keep	ANSEF small grants fund Armenian researchers' stipends — usable by Denovo scientists as individuals
+007	0.032277	+0.004485	7	keep	Armenia's ISTC membership gives access to the 2026 ISTC–Japan joint research call (biosafety/biosecurity priority fits antivirals)
+008	0.035007	+0.002730	9	keep	Armenian Ministry of High-Tech Industry startup schemes provide direct grants
+009	0.035007	+0.000000	9	discard	EU4Innovation East Armenia calls fund startups directly
+010	0.040250	+0.005243	10	keep	Horizon Europe Cluster 1 (Health) collaborative calls — drug discovery, AMR and pandemic-preparedness topics — accept Armenian partners
+011	0.044108	+0.003859	11	keep	Innovative Health Initiative (IHI JU) funds SMEs from associated countries in public-private drug-R&D consortia
+012	0.051058	+0.006950	12	keep	EIT Health Catapult accepts startups from Horizon-associated countries (needs ≥€0.5M raised — Denovo reports ~$1.3M)
+013	0.059284	+0.008226	13	keep	Antibiotic programme → CARB-X funds AMR therapeutics companies worldwide, incl. 'novel chemistry against validated targets'
+014	0.064084	+0.004800	14	keep	Gates Grand Challenges periodically fund AI/novel-chemistry antibiotic and LMIC drug discovery, open worldwide
+015	0.072197	+0.008113	15	keep	US DoD CDMRP allows foreign for-profit applicants by default — programmes cover rare disease, cancer, infectious disease
+016	0.075515	+0.003318	16	keep	NIH research project grants (R01/R21) accept foreign organisations, incl. companies; a US partner (Emory/UCSD) can also subaward
+017	0.077668	+0.002153	17	keep	NIH SBIR/STTR is the largest US small-business pool — but requires a US-owned, US-based company
+018	0.083623	+0.005955	18	keep	Leukemia & Lymphoma Society TAP funds biotech companies (incl. non-US precedent) for blood-cancer therapeutics
+019	0.083623	+0.000000	18	discard	Wellcome Discovery Awards: Armenia (UMIC) is eligible under current rules for applications submitted by 28 Oct 2026
+020	0.086905	+0.003281	19	keep	Global Health EDCTP3 funds infectious-disease drug R&D with associated-country partners
+021	0.092276	+0.005372	20	keep	Bayer Grants4Targets funds novel targets from start-ups worldwide in oncology, cardio, haematology, ophthalmology
+022	0.094806	+0.002529	21	keep	Homocystinuria programme → HCU Network America/Australia fund new HCU therapies (academic PI; WCM-Q/Sidra could lead)
+023	0.099043	+0.004237	22	keep	Rare-disease foundations: NORD's research grant programme funds international researchers per-disease
+024	0.103348	+0.004305	23	keep	Penn Orphan Disease Center Million Dollar Bike Ride pilot grants fund international rare-disease research
+025	0.110760	+0.007412	24	keep	ADDF Drug Development RFP funds biotech companies worldwide (mission-related investment)
+026	0.110760	+0.000000	24	discard	Global Innovation Fund backs for-profit innovators worldwide via grants
+027	0.117064	+0.006304	25	keep	AI-first startups get large cloud credit grants — Google for Startups Cloud AI tier
+028	0.121334	+0.004270	26	keep	AWS Activate gives up to $100k credits to startups worldwide (more via accelerator 'Activate Provider' org IDs)
+029	0.125650	+0.004316	27	keep	Microsoft for Startups (Founders Hub) offers Azure credits incl. GPU, open globally
+030	0.130515	+0.004865	28	keep	NVIDIA Inception gives AI startups GPU/cloud credit offers and DGX Cloud discounts
+031	0.134625	+0.004110	29	keep	J&J Innovation QuickFire Challenges give non-dilutive awards to global innovators
+032	0.141836	+0.007211	30	keep	Merck KGaA Research Grants are open to company scientists worldwide; 2026 topics include SYNTHIA-based molecule synthesis
+033	0.150053	+0.008217	31	keep	CF Foundation Therapeutics Development Awards explicitly welcome non-US companies (incl. antibacterials vs CF airway pathogens)
+034	0.154853	+0.004800	32	keep	GHIT Fund finances anti-infective discovery if a Japanese partner and an MMV/DNDi/TB Alliance partner are on board
+035	0.160856	+0.006002	33	keep	BARDA BAA (open to 2028) funds antiviral medical countermeasures; foreign companies can propose
+036	0.160856	+0.000000	33	discard	Hevolution funds ageing biology/drug discovery worldwide
+037	0.165103	+0.004247	34	keep	HESC bilateral calls (Italy CNR, Moldova, France PHC Ararat…) fund joint projects through Armenian institutes
+038	0.170338	+0.005235	35	keep	Michael J. Fox Foundation funds companies worldwide for Parkinson's therapeutics
+039	0.173588	+0.003250	36	keep	Children's Tumor Foundation funds NF drug discovery by companies worldwide
+040	0.178613	+0.005025	37	keep	Antiviral programme → Pandemic Antiviral Discovery (Novo Nordisk Fdn/Gates/Open Phil) funds commercial orgs internationally, up to $10M
+041	0.183347	+0.004733	38	keep	EuroHPC AI Factories give free GPU time to AI SMEs/startups in EU & associated countries — direct compute subsidy for generative chemistry
+042	0.183347	+0.000000	38	discard	Anthropic AI for Science gives API credits to life-science researchers
+043	0.188297	+0.004950	39	keep	One Health AMR partnership JTC funds companies in multinational AMR-treatment consortia
+044	0.193900	+0.005603	40	keep	Horizon Europe Cluster 4 GenAI4EU booster challenges target generative AI in drug development
+045	0.197110	+0.003210	41	keep	MSCA Staff Exchanges fund secondments between Denovo and academic partners (EU + worldwide)
+046	0.200950	+0.003840	42	keep	MSCA Postdoctoral Fellowships can be hosted by companies in associated countries — funds a postdoc at Denovo
+047	0.203272	+0.002322	43	keep	MSCA Doctoral Networks (industrial doctorates) fund PhD students co-hosted by SMEs
+048	0.211989	+0.008717	45	keep	Rare inborn-errors-of-metabolism foundations (PKU, cystinosis) fund academic PIs internationally — partner route for metabolic programme
+049	0.224068	+0.012078	47	keep	Deep-tech competitions with cash prizes are open to Armenian startups (Hello Tomorrow, MIT Solve)
+050	0.230009	+0.005941	48	keep	INCATE gives non-dilutive funding to early-stage antibacterial projects in Europe
+051	0.239903	+0.009895	50	keep	Armenian EIF matching grants (World Bank/EU legacy) co-finance startups
+052	0.245928	+0.006025	52	keep	Qatar partner (Sidra/WCM-Q) unlocks QRDI national research programme funding, with Denovo as international collaborator
+053	0.252518	+0.006590	54	keep	Armenia is a widening country → Horizon Excellence Hubs (deadline 4 Mar 2027) can include Denovo and cascade up to €60k to startups
+054	0.256945	+0.004427	55	keep	Oncology discovery funders that accept PIs worldwide (Worldwide Cancer Research) — company joins as collaborator
+055	0.261357	+0.004412	56	keep	COST Actions reimburse Armenian participants (networking, STSMs) — cheap access to EU drug-discovery networks
+056	0.272595	+0.011237	58	keep	Pharma AI-model access programmes give free in-kind resources (Lilly TuneLab, Boehringer opnMe)
+057	0.275775	+0.003180	59	keep	EBRD Star Venture supports locally-owned Armenian startups (non-cash)
+058	0.283537	+0.007762	60	keep	ARPA-H can fund foreign entities directly in some solicitations (e.g. AI-for-research programmes)
+059	0.295397	+0.011860	62	keep	EIC Pathfinder: Open needs a 3-country consortium (next 2027); Challenges (deadline 28 Oct 2026) allow single applicants
+060	0.298689	+0.003292	63	keep	BE READY pandemic-preparedness partnership funds therapeutic-target work on priority virus families
+061	0.306493	+0.007804	64	keep	Malaria/NTD product-development partnerships (MMV) fund drug-discovery partners worldwide incl. computational work
+062	0.312093	+0.005600	65	keep	Coefficient Giving (ex-Open Philanthropy) Science & Global Health R&D funds preclinical drug work
+063	0.317118	+0.005025	66	keep	Cancer Grand Challenges: join a team as the AI-chemistry partner
+064	0.320194	+0.003076	67	keep	GARDP has open antibiotic-discovery partnerships for companies
+065	0.324732	+0.004538	68	keep	NATO SPS is open to partner country Armenia; 2027-1 call (deadline 15 Nov 2026) includes CBRN defence — medical countermeasures
+066	0.329269	+0.004537	69	keep	Wellcome Leap programmes accept any legal entity in any jurisdiction, companies included
+067	0.335794	+0.006525	70	keep	FAST's B-On Biotech Prototyping Lab gives Armenian biotech teams shared wet-lab space — in-kind support for assay validation
+068	0.340324	+0.004530	71	keep	Oncology foundations funding international academic teams (PCF Challenge Awards) — partner route
+069	0.343028	+0.002704	72	keep	ICGEB Collaborative Research Programme grants (€25k/yr) — if Armenia is a member state
+070	0.343028	+0.000000	72	discard	Novo Holdings REPAIR Impact Fund backs early AMR companies
+071	0.348045	+0.005017	73	keep	FDA Orphan Products grants accept foreign for-profit applicants — route for a future HCU clinical study with Sidra
+072	0.352949	+0.004904	74	keep	Korea's RIGHT Foundation mirrors GHIT: global-health product development with a Korean partner
+073	0.358651	+0.005702	75	keep	Entrepreneurship World Cup — Denovo was a 2021 global finalist; ~$1M equity-free prizes yearly incl. AI subtrack
+074	0.361918	+0.003267	76	keep	ERDERA rare-disease joint calls — Armenia not found among funding countries
+075	0.364015	+0.002097	77	keep	AstraZeneca open innovation gives compound-library and target-collaboration access
+076	0.366676	+0.002661	79	keep	Subsidiary routes: Innovate UK and India's BIRAC fund only locally registered companies (Mankind Pharma tie-in for India)
+077	0.372486	+0.005810	81	keep	Compute access for research partners: Google TPU Research Cloud, Oracle for Startups credits
+078	0.376988	+0.004502	82	keep	LLS Translational Research Program funds non-US academic PIs on blood cancers — oncology partner route
+079	0.376988	+0.000000	82	discard	WHO/TDR impact grants fund infectious-disease research in LMICs
+080	0.379221	+0.002233	83	keep	Grand Challenges Canada lists Armenia as eligible LMIC for Stars in Global Health
+081	0.381755	+0.002534	85	keep	Individual fellowships let Denovo scientists spend time in partner labs (Humboldt, Fulbright)
+082	0.384935	+0.003180	86	keep	Armenian Ministry of High-Tech + Plug and Play Germany acceleration is a non-cash route to EU pharma partners
+083	0.389153	+0.004218	87	keep	ITU AI for Good Innovation Factory gives AI startups global exposure
+084	0.392241	+0.003089	88	keep	AACR research grants accept international academic investigators — oncology partner route
+085	0.395318	+0.003077	89	keep	DNDi funds hit-to-lead partners and runs the Drug Discovery Booster for neglected diseases
+086	0.398712	+0.003394	91	keep	Academic compute programmes reach Denovo via university collaborators (AWS research credits, NVIDIA academic grants)
+087	0.405090	+0.006379	92	keep	EuroHPC 'AI for Science' access mode is open to industry in associated countries for open research
+088	0.406864	+0.001774	93	keep	Pfizer Global Medical Grants run competitive research RFPs open worldwide
+089	0.408417	+0.001553	94	keep	CPRIT product-development awards are large but require operating in Texas
+090	0.422145	+0.013728	97	keep	Disease venture-philanthropies fund companies worldwide for new therapeutics (T1D, IBD, MS) — open doors if Denovo adds a programme
+091	0.428471	+0.006326	99	keep	Rare metabolic/lysosomal disease foundations also fund international researchers and biotechs (Sanfilippo, mitochondrial)
+092	0.428471	+0.000000	99	discard	NIH's AViDD antiviral centres funded pandemic small-molecule discovery
+093	0.428471	+0.000000	99	discard	USAID innovation grants in Armenia
+094	0.428471	+0.000000	99	discard	EIC Transition could take Denovo's platform to market as a single SME
+095	0.423520	-0.004950	99	fix	Verify: One Health AMR JTC — partners are funded only by participating national funders; Armenia is not one
+096	0.425549	+0.002029	98	keep	Verify: EuroHPC access policy covers industry established in Horizon Europe associated countries; drop zero-value Neruzh record
+097	0.426971	+0.001422	98	keep	Verify: NIH accepts foreign (incl. for-profit) applicants for research project grants, but not SBIR/STTR, centres or training grants
+098	0.430037	+0.003066	99	keep	Alzheimer's Association Part the Cloud funds companies worldwide for neurodegeneration drug programmes
+099	0.437863	+0.007826	101	keep	TB/neurodegeneration product-development partners fund external chemistry (TB Alliance via GHIT; Parkinson's UK Virtual Biotech)
+100	0.437863	+0.000000	101	discard	SSIEM (inborn errors of metabolism society) offers research grants relevant to homocystinuria

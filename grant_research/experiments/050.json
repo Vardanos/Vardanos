@@ -1,0 +1,24 @@
+{
+ "id": "050",
+ "hypothesis": "INCATE gives non-dilutive funding to early-stage antibacterial projects in Europe",
+ "kind": "add",
+ "add": [
+  {
+   "id": "incate",
+   "funder": "INCATE",
+   "program": "Antibacterial incubator — Stage I/II",
+   "url": "https://www.leibniz-hki.de/en/incate.html",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 270000.0,
+   "verified": false,
+   "notes": "Up to €250k for TRL1–4 antibacterial projects; European focus — Armenian eligibility to confirm."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "043",
+ "hypothesis": "One Health AMR partnership JTC funds companies in multinational AMR-treatment consortia",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ohamr-jtc",
+   "funder": "European Partnership One Health AMR",
+   "program": "Joint Transnational Calls (OH-TREAT 2026…)",
+   "url": "https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/international-calls/one-health-amr-jtc-2026-treatments-and-adherence-to-treatment-protocols-oh-treat/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 400000.0,
+   "verified": true,
+   "notes": "Companies of all sizes eligible but each partner is paid by its national funder — Armenia not among the 28 funding countries, so Denovo would need to self-fund or route via a funded partner."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

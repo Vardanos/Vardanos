@@ -1,0 +1,24 @@
+{
+ "id": "042",
+ "hypothesis": "Anthropic AI for Science gives API credits to life-science researchers",
+ "kind": "add",
+ "add": [
+  {
+   "id": "anthropic-ai4science",
+   "funder": "Anthropic",
+   "program": "AI for Science API credits",
+   "url": "https://support.anthropic.com/en/articles/11199177-anthropic-s-ai-for-science-program",
+   "eligibility": "ineligible",
+   "topic": "ai_drug_discovery",
+   "instrument": "compute_credits",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 20000.0,
+   "verified": true,
+   "notes": "Academia and non-profits only; a company can benefit only through an academic collaborator."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

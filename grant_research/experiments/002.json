@@ -1,0 +1,24 @@
+{
+ "id": "002",
+ "hypothesis": "Armenia is a Horizon Europe 'widening' country, so the EIC Pre-Accelerator (TRL4-5, €300-500k) is open",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eic-pre-accelerator",
+   "funder": "European Innovation Council",
+   "program": "EIC Pre-Accelerator (widening countries)",
+   "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pre-accelerator_en",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "intermittent",
+   "max_award_usd": 580000.0,
+   "verified": true,
+   "notes": "Armenia explicitly listed; €300-500k at 70% rate; 2025 pilot, check WIDERA work programme for next call."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

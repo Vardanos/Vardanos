@@ -1,0 +1,24 @@
+{
+ "id": "034",
+ "hypothesis": "GHIT Fund finances anti-infective discovery if a Japanese partner and an MMV/DNDi/TB Alliance partner are on board",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ghit",
+   "funder": "Global Health Innovative Technology Fund",
+   "program": "Hit-to-Lead / Target Research platforms",
+   "url": "https://mesamalaria.org/updates/ghit-fund-call-for-proposals-target-research-platform-trp-2026/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 1000000.0,
+   "verified": true,
+   "notes": "Needs a substantive Japanese partner; HTLP also needs MMV/DNDi/TB Alliance. Neglected tropical diseases, malaria, TB."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

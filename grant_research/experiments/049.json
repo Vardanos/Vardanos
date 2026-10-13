@@ -1,0 +1,39 @@
+{
+ "id": "049",
+ "hypothesis": "Deep-tech competitions with cash prizes are open to Armenian startups (Hello Tomorrow, MIT Solve)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hello-tomorrow",
+   "funder": "Hello Tomorrow",
+   "program": "Global Challenge (health & biotech tracks)",
+   "url": "https://hello-tomorrow.org/faq-global-challenge/",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 220000.0,
+   "verified": true,
+   "notes": "Up to Series A; 2027 edition (June, applications ~Nov–Jan); grand prize €100k / €200k investment pool."
+  },
+  {
+   "id": "mit-solve",
+   "funder": "MIT Solve",
+   "program": "Global Challenges",
+   "url": "https://opportunitydesk.org/mit-solve-10th-anniversary-global-challenge-2026/",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "$10k base + prizes up to $100k; 2027 challenges close ~2 Nov 2026; health themes skew to access/delivery rather than discovery."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

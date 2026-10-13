@@ -1,0 +1,24 @@
+{
+ "id": "039",
+ "hypothesis": "Children's Tumor Foundation funds NF drug discovery by companies worldwide",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ctf",
+   "funder": "Children's Tumor Foundation",
+   "program": "Drug Discovery Initiative / NF research grants",
+   "url": "https://www.ctf.org/research/funding-opportunities/",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 200000.0,
+   "verified": false,
+   "notes": "Rare tumour (NF1/NF2/schwannomatosis) — fits oncology + rare; small DDI awards to companies."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

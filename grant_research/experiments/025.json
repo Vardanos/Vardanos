@@ -1,0 +1,24 @@
+{
+ "id": "025",
+ "hypothesis": "ADDF Drug Development RFP funds biotech companies worldwide (mission-related investment)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "addf",
+   "funder": "Alzheimer's Drug Discovery Foundation",
+   "program": "Drug Development RFP",
+   "url": "https://www.alzdiscovery.org/research-and-grants/funding-opportunities",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant_equity",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 5000000.0,
+   "verified": true,
+   "notes": "Worldwide incl. startups; up to $5M, IND-enabling/clinical; outside Denovo's current areas (neuro) — only for a CNS programme."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

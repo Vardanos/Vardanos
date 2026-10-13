@@ -1,0 +1,24 @@
+{
+ "id": "073",
+ "hypothesis": "Entrepreneurship World Cup — Denovo was a 2021 global finalist; ~$1M equity-free prizes yearly incl. AI subtrack",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ewc",
+   "funder": "Global Entrepreneurship Network",
+   "program": "Entrepreneurship World Cup",
+   "url": "https://www.genglobal.org/gen-founders/news/idea-early-and-growth-stage-companies-invited-apply-2026-entrepreneurship-world",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 160000.0,
+   "verified": true,
+   "notes": "2026 applications closed May 31; growth-stage prize up to $160k; apply 2027."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

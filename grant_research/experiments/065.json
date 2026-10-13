@@ -1,0 +1,24 @@
+{
+ "id": "065",
+ "hypothesis": "NATO SPS is open to partner country Armenia; 2027-1 call (deadline 15 Nov 2026) includes CBRN defence — medical countermeasures",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nato-sps",
+   "funder": "NATO Science for Peace and Security",
+   "program": "Multi-Year Projects (call 2027-1)",
+   "url": "https://www.nato.int/content/dam/nato/webready/documents/sps/grants/SPS-Call4proposals-2027-1.pdf",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "open",
+   "max_award_usd": 430000.0,
+   "verified": true,
+   "notes": "Deadline 15 Nov 2026; needs NATO-country co-director + Armenian co-director; antiviral/antibacterial countermeasures fit the CBRN priority."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

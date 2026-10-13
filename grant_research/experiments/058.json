@@ -1,0 +1,24 @@
+{
+ "id": "058",
+ "hypothesis": "ARPA-H can fund foreign entities directly in some solicitations (e.g. AI-for-research programmes)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "arpa-h",
+   "funder": "US ARPA-H",
+   "program": "Programme solicitations / Open BAA",
+   "url": "https://arpa-h.gov/engage-and-connect/international",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "rolling",
+   "max_award_usd": 5000000.0,
+   "verified": true,
+   "notes": "Foreign entities allowed per solicitation (not Russia/China/Iran/NK), but US-performed work is prioritised — best via a US prime contractor."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "072",
+ "hypothesis": "Korea's RIGHT Foundation mirrors GHIT: global-health product development with a Korean partner",
+ "kind": "add",
+ "add": [
+  {
+   "id": "right-foundation",
+   "funder": "RIGHT Foundation (Korea)",
+   "program": "Product Development Awards",
+   "url": "https://www2.fundsforngos.org/awards/right-foundations-product-development-award-2025/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 2900000.0,
+   "verified": true,
+   "notes": "Needs ≥1 Korean R&D entity; up to 50% of cost / KRW 4bn; no early discovery — needs proof-of-principle data (Denovo's antiviral hits qualify)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "033",
+ "hypothesis": "CF Foundation Therapeutics Development Awards explicitly welcome non-US companies (incl. antibacterials vs CF airway pathogens)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "cff-tda",
+   "funder": "Cystic Fibrosis Foundation",
+   "program": "Therapeutics Development Award / Path to a Cure industry awards",
+   "url": "https://www.cff.org/sites/default/files/2022-03/Therapeutics-Development-Award-Policies-and-Guidelines.pdf",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 600000.0,
+   "verified": true,
+   "notes": "Non-US companies explicitly eligible; matching required; antibacterials vs Pseudomonas/NTM fit Denovo's antibiotic work."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

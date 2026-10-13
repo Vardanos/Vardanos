@@ -1,0 +1,39 @@
+{
+ "id": "099",
+ "hypothesis": "TB/neurodegeneration product-development partners fund external chemistry (TB Alliance via GHIT; Parkinson's UK Virtual Biotech)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "tb-alliance",
+   "funder": "TB Alliance",
+   "program": "Discovery collaborations (often GHIT-funded)",
+   "url": "https://www.tballiance.org/news-astellas-and-tb-alliance-enter-new-collaborative-research-agreement-identify-lead-compounds/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Screening/hit-to-lead collaborations with companies, typically funded through GHIT."
+  },
+  {
+   "id": "parkinsons-uk-vb",
+   "funder": "Parkinson's UK",
+   "program": "Parkinson's Virtual Biotech",
+   "url": "https://www.parkinsons.org.uk/research/parkinsons-virtual-biotech",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 2000000.0,
+   "verified": false,
+   "notes": "Funds drug-development projects incl. companies internationally."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

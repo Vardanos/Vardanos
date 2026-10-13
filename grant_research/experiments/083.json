@@ -1,0 +1,24 @@
+{
+ "id": "083",
+ "hypothesis": "ITU AI for Good Innovation Factory gives AI startups global exposure",
+ "kind": "add",
+ "add": [
+  {
+   "id": "itu-ai4good",
+   "funder": "ITU",
+   "program": "AI for Good Innovation Factory",
+   "url": "https://aiforgood.itu.int/",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Pitching competition (health track); small/in-kind prizes."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

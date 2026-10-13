@@ -1,0 +1,24 @@
+{
+ "id": "029",
+ "hypothesis": "Microsoft for Startups (Founders Hub) offers Azure credits incl. GPU, open globally",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ms-founders-hub",
+   "funder": "Microsoft",
+   "program": "Microsoft for Startups — Azure credits",
+   "url": "https://www.microsoft.com/en-us/startups",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 150000.0,
+   "verified": false,
+   "notes": "Up to $150k Azure credits; Azure OpenAI access."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

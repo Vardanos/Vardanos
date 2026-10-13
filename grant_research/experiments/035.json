@@ -1,0 +1,24 @@
+{
+ "id": "035",
+ "hypothesis": "BARDA BAA (open to 2028) funds antiviral medical countermeasures; foreign companies can propose",
+ "kind": "add",
+ "add": [
+  {
+   "id": "barda-baa",
+   "funder": "US HHS — BARDA",
+   "program": "Broad Agency Announcement (CBRN antivirals)",
+   "url": "https://www.bwcoconsulting.com/fod/barda-baa",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "rolling",
+   "max_award_usd": 10000000.0,
+   "verified": false,
+   "notes": "Rolling to Sept 2028; contract funding for advanced development — realistic only once an antiviral candidate is in IND-enabling stage. Foreign eligibility not confirmed."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "092",
+ "hypothesis": "NIH's AViDD antiviral centres funded pandemic small-molecule discovery",
+ "kind": "add",
+ "add": [
+  {
+   "id": "niaid-avidd",
+   "funder": "US NIAID",
+   "program": "Antiviral Drug Discovery (AViDD) Centers",
+   "url": "https://www.niaid.nih.gov/research/antiviral-drug-discovery-avidd",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "partner_country",
+   "status": "closed",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Programme funding ended early (2025); no new awards."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

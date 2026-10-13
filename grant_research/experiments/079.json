@@ -1,0 +1,24 @@
+{
+ "id": "079",
+ "hypothesis": "WHO/TDR impact grants fund infectious-disease research in LMICs",
+ "kind": "add",
+ "add": [
+  {
+   "id": "who-tdr",
+   "funder": "WHO / TDR",
+   "program": "Impact grants for implementation research",
+   "url": "https://www.afro.who.int/call-for-applications-joint-who-afro-tdr-impact-grants-2026-2027",
+   "eligibility": "ineligible",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "closed",
+   "max_award_usd": 15000.0,
+   "verified": true,
+   "notes": "Regional (Africa/W. Pacific) implementation research — no fit."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

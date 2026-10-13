@@ -1,0 +1,39 @@
+{
+ "id": "056",
+ "hypothesis": "Pharma AI-model access programmes give free in-kind resources (Lilly TuneLab, Boehringer opnMe)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "lilly-tunelab",
+   "funder": "Eli Lilly",
+   "program": "TuneLab (free federated AI drug-discovery models)",
+   "url": "https://www.biopharmadive.com/news/eli-lilly-biotech-ai-tunelab-drug-discovery-startups/759630/",
+   "eligibility": "direct",
+   "topic": "ai_drug_discovery",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Free for selected biotechs, no IP claims; ADMET/property models trained on ~$1B Lilly data. Competitive with Denovo's platform but useful for validation."
+  },
+  {
+   "id": "bi-opnme",
+   "funder": "Boehringer Ingelheim",
+   "program": "opnMe (free tool compounds; co-funded collaborations)",
+   "url": "https://www.opnme.com/",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Free well-characterised molecules + periodic calls for collaborative research proposals."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

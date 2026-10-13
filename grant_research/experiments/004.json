@@ -1,0 +1,24 @@
+{
+ "id": "004",
+ "hypothesis": "HESC's 2026 Remote Laboratories / Integration grants let a foreign PI build a group in Armenia — usable to bring a diaspora medicinal chemist",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hesc-remote-labs",
+   "funder": "Higher Education and Science Committee (RA)",
+   "program": "Remote Laboratories & Incoming Researcher (Integration) grants",
+   "url": "https://www.hesc.am/?p=15307",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": 200000.0,
+   "verified": true,
+   "notes": "Group hosted by an Armenian scientific organisation; annual calls (2026 deadlines April)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

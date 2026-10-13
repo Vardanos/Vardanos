@@ -1,0 +1,24 @@
+{
+ "id": "028",
+ "hypothesis": "AWS Activate gives up to $100k credits to startups worldwide (more via accelerator 'Activate Provider' org IDs)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "aws-activate",
+   "funder": "Amazon Web Services",
+   "program": "AWS Activate",
+   "url": "https://aws.amazon.com/startups/credits",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 100000.0,
+   "verified": false,
+   "notes": "Founders tier $1k self-serve; Portfolio tier up to $100k via VC/accelerator (Berkeley SkyDeck is a provider)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "013",
+ "hypothesis": "Antibiotic programme → CARB-X funds AMR therapeutics companies worldwide, incl. 'novel chemistry against validated targets'",
+ "kind": "add",
+ "add": [
+  {
+   "id": "carb-x",
+   "funder": "CARB-X (Boston University)",
+   "program": "Annual funding rounds — antibacterial therapeutics",
+   "url": "https://carb-x.org/carb-x-news/carb-x-launches-2026-funding-round-to-address-global-burden-of-amr",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 4000000.0,
+   "verified": true,
+   "notes": "Global applicants explicitly welcomed; 2026 EOI window 8–22 April (closed); expect 2027 round. Non-dilutive, milestone-based."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

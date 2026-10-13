@@ -1,0 +1,24 @@
+{
+ "id": "027",
+ "hypothesis": "AI-first startups get large cloud credit grants — Google for Startups Cloud AI tier",
+ "kind": "add",
+ "add": [
+  {
+   "id": "google-cloud-ai",
+   "funder": "Google Cloud",
+   "program": "Google for Startups Cloud Program — AI tier",
+   "url": "https://cloud.google.com/startup/ai?hl=en",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 350000.0,
+   "verified": true,
+   "notes": "Up to $350k over 2 years; requires institutional VC (seed–Series A) — STAN angel money may not qualify; ask via a partner VC."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

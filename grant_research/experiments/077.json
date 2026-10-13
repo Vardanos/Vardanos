@@ -1,0 +1,39 @@
+{
+ "id": "077",
+ "hypothesis": "Compute access for research partners: Google TPU Research Cloud, Oracle for Startups credits",
+ "kind": "add",
+ "add": [
+  {
+   "id": "tpu-research-cloud",
+   "funder": "Google",
+   "program": "TPU Research Cloud",
+   "url": "https://sites.research.google/trc/about/",
+   "eligibility": "via_founder",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Free Cloud TPU quota for researchers who publish/open-source results."
+  },
+  {
+   "id": "oracle-startups",
+   "funder": "Oracle",
+   "program": "Oracle for Startups (OCI credits)",
+   "url": "https://www.oracle.com/startup/",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 100000.0,
+   "verified": false,
+   "notes": "Cloud credits incl. GPU shapes; availability by region."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

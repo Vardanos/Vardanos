@@ -1,0 +1,24 @@
+{
+ "id": "084",
+ "hypothesis": "AACR research grants accept international academic investigators — oncology partner route",
+ "kind": "add",
+ "add": [
+  {
+   "id": "aacr-grants",
+   "funder": "American Association for Cancer Research",
+   "program": "AACR research grants",
+   "url": "https://www.aacr.org/grants/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 300000.0,
+   "verified": false,
+   "notes": "Many AACR grants open to non-US academic investigators; company via collaborator."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

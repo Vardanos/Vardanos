@@ -1,0 +1,39 @@
+{
+ "id": "052",
+ "hypothesis": "Qatar partner (Sidra/WCM-Q) unlocks QRDI national research programme funding, with Denovo as international collaborator",
+ "kind": "add",
+ "add": [
+  {
+   "id": "qrdi-npr",
+   "funder": "Qatar Research, Development and Innovation Council",
+   "program": "National Research Program calls (biopharma, AI)",
+   "url": "https://menastartupdigest.com/?p=26303",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 1000000.0,
+   "verified": true,
+   "notes": "Lead PI must be at a Qatari institution and budget is spent in Qatar — WCM-Q/Sidra lead; Denovo's work may need to be subcontracted/in-kind."
+  },
+  {
+   "id": "qstp-pdf",
+   "funder": "Qatar Science & Technology Park",
+   "program": "Product Development Fund",
+   "url": "https://qstp.org.qa/",
+   "eligibility": "needs_foreign_entity",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "partner_country",
+   "status": "rolling",
+   "max_award_usd": 1400000.0,
+   "verified": false,
+   "notes": "Co-funding for companies registered in QSTP — requires a Qatar entity."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

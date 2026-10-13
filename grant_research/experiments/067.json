@@ -1,0 +1,24 @@
+{
+ "id": "067",
+ "hypothesis": "FAST's B-On Biotech Prototyping Lab gives Armenian biotech teams shared wet-lab space — in-kind support for assay validation",
+ "kind": "add",
+ "add": [
+  {
+   "id": "fast-b-on",
+   "funder": "Foundation for Armenian Science and Technology (FAST)",
+   "program": "B-On Biotech Prototyping Lab",
+   "url": "https://fast.foundation/en/program/7187",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Shared lab at ANAU, Yerevan; lets Denovo run its own validation assays instead of relying only on partner labs."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

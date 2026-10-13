@@ -1,0 +1,14 @@
+{
+ "id": "095",
+ "hypothesis": "Verify: One Health AMR JTC — partners are funded only by participating national funders; Armenia is not one",
+ "kind": "verify",
+ "add": [],
+ "update": {
+  "ohamr-jtc": {
+   "eligibility": "ineligible",
+   "verified": true,
+   "notes": "Armenia is not among the ~28 funding countries; Denovo could only join self-funded. Kept for visibility, scores 0."
+  }
+ },
+ "remove": []
+}

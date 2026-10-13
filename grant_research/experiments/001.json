@@ -1,0 +1,24 @@
+{
+ "id": "001",
+ "hypothesis": "Baseline: Armenia is a Horizon Europe associated country, so the EIC Accelerator is open to an Armenian SME on equal terms",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eic-accelerator",
+   "funder": "European Innovation Council",
+   "program": "EIC Accelerator (grant up to €2.5M + equity)",
+   "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "grant_equity",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 2900000.0,
+   "verified": true,
+   "notes": "Associated-country SMEs apply like EU ones; short proposal any time, several full-proposal cut-offs a year. Strongest single fit for a platform company at TRL 5-6."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

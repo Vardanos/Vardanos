@@ -1,0 +1,24 @@
+{
+ "id": "057",
+ "hypothesis": "EBRD Star Venture supports locally-owned Armenian startups (non-cash)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "ebrd-star-venture",
+   "funder": "EBRD",
+   "program": "Star Venture programme (Armenia)",
+   "url": "https://intech.am/ebrd-star-venture-program-for-armenia/",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "<5 years old (Denovo founded 2019 — borderline), majority local ownership; mentoring, investor access, cloud perks."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

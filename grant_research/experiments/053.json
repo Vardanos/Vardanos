@@ -1,0 +1,39 @@
+{
+ "id": "053",
+ "hypothesis": "Armenia is a widening country → Horizon Excellence Hubs (deadline 4 Mar 2027) can include Denovo and cascade up to €60k to startups",
+ "kind": "add",
+ "add": [
+  {
+   "id": "widening-excellence-hubs",
+   "funder": "European Commission — Horizon Europe WIDERA",
+   "program": "Excellence Hubs (HORIZON-WIDERA-2027-04-WIDENING-01)",
+   "url": "https://www.jcu.cz/en/science-and-research/eu-desk/open-calls/forthcoming-call-excellence-hubs-horizon-widera-2027-04",
+   "eligibility": "as_partner",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "open",
+   "max_award_usd": 4500000.0,
+   "verified": true,
+   "notes": "Opens 2 Sept 2026, deadline 4 Mar 2027; quadruple-helix ecosystem projects — an Armenian life-science hub with Denovo as anchor SME."
+  },
+  {
+   "id": "widening-twinning",
+   "funder": "European Commission — Horizon Europe WIDERA",
+   "program": "Twinning / ERA Chairs / Hop-On Facility",
+   "url": "https://iuk-business-connect.org.uk/opportunities/horizon-europe-2026-27-widening-participation-and-strengthening-the-european-research-area/",
+   "eligibility": "as_partner",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 1500000.0,
+   "verified": false,
+   "notes": "Widening institution leads (Armenian institute); Hop-On lets a widening partner join a running Horizon project."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

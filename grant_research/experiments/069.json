@@ -1,0 +1,24 @@
+{
+ "id": "069",
+ "hypothesis": "ICGEB Collaborative Research Programme grants (€25k/yr) — if Armenia is a member state",
+ "kind": "add",
+ "add": [
+  {
+   "id": "icgeb-crp",
+   "funder": "ICGEB",
+   "program": "Collaborative Research Programme grants",
+   "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 80000.0,
+   "verified": false,
+   "notes": "University/institute PIs in ICGEB member states; Armenian membership not confirmed."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

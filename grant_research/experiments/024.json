@@ -1,0 +1,24 @@
+{
+ "id": "024",
+ "hypothesis": "Penn Orphan Disease Center Million Dollar Bike Ride pilot grants fund international rare-disease research",
+ "kind": "add",
+ "add": [
+  {
+   "id": "odc-mdbr",
+   "funder": "Penn Orphan Disease Center",
+   "program": "Million Dollar Bike Ride pilot grants",
+   "url": "https://www.orphandiseasecenter.med.upenn.edu/grants/2025mdbr",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "Disease-specific pots; international faculty/non-profit PIs only — company joins as collaborator. Check whether an HCU/metabolic team rides."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

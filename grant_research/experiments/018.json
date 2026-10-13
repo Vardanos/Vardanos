@@ -1,0 +1,24 @@
+{
+ "id": "018",
+ "hypothesis": "Leukemia & Lymphoma Society TAP funds biotech companies (incl. non-US precedent) for blood-cancer therapeutics",
+ "kind": "add",
+ "add": [
+  {
+   "id": "lls-tap",
+   "funder": "Leukemia & Lymphoma Society",
+   "program": "Therapy Acceleration Program (TAP)",
+   "url": "https://lls.org/article/tap-oversight-committee",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant_equity",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 9000000.0,
+   "verified": false,
+   "notes": "$0.5–9M equity/asset funding, rolling; mainly clinical-stage — relevant only for a haematological-oncology asset."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

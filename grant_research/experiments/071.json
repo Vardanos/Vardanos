@@ -1,0 +1,24 @@
+{
+ "id": "071",
+ "hypothesis": "FDA Orphan Products grants accept foreign for-profit applicants — route for a future HCU clinical study with Sidra",
+ "kind": "add",
+ "add": [
+  {
+   "id": "fda-oopd",
+   "funder": "US FDA — Office of Orphan Products Development",
+   "program": "Orphan Products Clinical Trials Grants (RFA-FD-25-020)",
+   "url": "https://www.fda.gov/industry/orphan-products-grants-program/faqs-orphan-products-grant-applicants",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 2700000.0,
+   "verified": true,
+   "notes": "Foreign/for-profit eligible; up to $650–900k/yr; clinical trials only (deadlines 20 Oct 2026, 19 Oct 2027) — needs a clinical candidate and a trial site like Sidra."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

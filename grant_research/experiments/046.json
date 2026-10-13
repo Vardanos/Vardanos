@@ -1,0 +1,24 @@
+{
+ "id": "046",
+ "hypothesis": "MSCA Postdoctoral Fellowships can be hosted by companies in associated countries — funds a postdoc at Denovo",
+ "kind": "add",
+ "add": [
+  {
+   "id": "msca-pf",
+   "funder": "European Commission — MSCA",
+   "program": "Postdoctoral Fellowships (non-academic host)",
+   "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "fellowship_mobility",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 230000.0,
+   "verified": false,
+   "notes": "Fellow + host apply together; company hosts allowed; annual deadline ~September."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

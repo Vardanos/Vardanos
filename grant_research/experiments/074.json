@@ -1,0 +1,24 @@
+{
+ "id": "074",
+ "hypothesis": "ERDERA rare-disease joint calls — Armenia not found among funding countries",
+ "kind": "add",
+ "add": [
+  {
+   "id": "erdera-jtc",
+   "funder": "ERDERA (European Rare Diseases Research Alliance)",
+   "program": "Joint Transnational Calls",
+   "url": "https://erdera.org/news/erdera-launches-2026-joint-transnational-call-on-diagnostics-for-unsolved-rare-diseases/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 350000.0,
+   "verified": false,
+   "notes": "2026 call is diagnostics (not therapeutics); Armenia not in published country lists — join self-funded or via a funded partner."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

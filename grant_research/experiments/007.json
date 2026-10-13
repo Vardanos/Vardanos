@@ -1,0 +1,24 @@
+{
+ "id": "007",
+ "hypothesis": "Armenia's ISTC membership gives access to the 2026 ISTC–Japan joint research call (biosafety/biosecurity priority fits antivirals)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "istc-japan-joint",
+   "funder": "International Science and Technology Center",
+   "program": "Joint Research Proposals (Central Asia/Caucasus + Japan)",
+   "url": "https://istc.int/storage/2026/04/09/268b35171d9980108232da28a90f37bae6f12a4f.pdf",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 250000.0,
+   "verified": true,
+   "notes": "Up to $250k/36 months; needs a Japanese partner group; 2026 step-1 deadline 30 May — plan for 2027 round."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

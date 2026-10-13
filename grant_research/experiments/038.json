@@ -1,0 +1,24 @@
+{
+ "id": "038",
+ "hypothesis": "Michael J. Fox Foundation funds companies worldwide for Parkinson's therapeutics",
+ "kind": "add",
+ "add": [
+  {
+   "id": "mjff",
+   "funder": "Michael J. Fox Foundation",
+   "program": "Therapeutic Pipeline Program / open RFAs",
+   "url": "https://www.michaeljfox.org/grant-funding",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 3000000.0,
+   "verified": false,
+   "notes": "Industry and non-US applicants routinely funded; relevant only if Denovo opens a Parkinson's target programme."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "060",
+ "hypothesis": "BE READY pandemic-preparedness partnership funds therapeutic-target work on priority virus families",
+ "kind": "add",
+ "add": [
+  {
+   "id": "be-ready",
+   "funder": "European Partnership for Pandemic Preparedness (BE READY)",
+   "program": "Joint transnational calls",
+   "url": "https://tubitak.gov.tr/en/announcement/european-partnership-pandemic-preparedness-be-ready-now-2026-joint-international-call-open-applications",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 500000.0,
+   "verified": false,
+   "notes": "~€118M first call (2026, closed); therapeutic targets on Corona/Filo/Flavi/Orthomyxo/Paramyxoviridae; funded via national agencies — Armenian participation unconfirmed."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

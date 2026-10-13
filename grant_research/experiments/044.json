@@ -1,0 +1,24 @@
+{
+ "id": "044",
+ "hypothesis": "Horizon Europe Cluster 4 GenAI4EU booster challenges target generative AI in drug development",
+ "kind": "add",
+ "add": [
+  {
+   "id": "genai4eu",
+   "funder": "European Commission — Horizon Europe Cluster 4",
+   "program": "GenAI4EU Booster Challenge (pharma/drug development track)",
+   "url": "https://tikopro-eu.win.humanfrog.com/eu-calls-for-proposals/call-details/genai4eu-booster-challenge",
+   "eligibility": "direct",
+   "topic": "ai_drug_discovery",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "intermittent",
+   "max_award_usd": 2000000.0,
+   "verified": true,
+   "notes": "2026 deadline 15 April passed; multi-stage TRL3→6 competition — watch the 2027 Digital work programme."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

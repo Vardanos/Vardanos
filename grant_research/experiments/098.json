@@ -1,0 +1,24 @@
+{
+ "id": "098",
+ "hypothesis": "Alzheimer's Association Part the Cloud funds companies worldwide for neurodegeneration drug programmes",
+ "kind": "add",
+ "add": [
+  {
+   "id": "part-the-cloud",
+   "funder": "Alzheimer's Association",
+   "program": "Part the Cloud",
+   "url": "https://www.alz.org/research/for_researchers/grants",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 1000000.0,
+   "verified": false,
+   "notes": "Industry eligible; translational/clinical Alzheimer's — outside current pipeline."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

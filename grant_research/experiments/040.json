@@ -1,0 +1,24 @@
+{
+ "id": "040",
+ "hypothesis": "Antiviral programme → Pandemic Antiviral Discovery (Novo Nordisk Fdn/Gates/Open Phil) funds commercial orgs internationally, up to $10M",
+ "kind": "add",
+ "add": [
+  {
+   "id": "pad-initiative",
+   "funder": "Pandemic Antiviral Discovery (PAD) — Novo Nordisk Foundation, Gates, Open Philanthropy",
+   "program": "PAD requests for proposals",
+   "url": "https://novonordiskfonden.dk/en/grant/pad-henipavirus-request-for-proposals-2022/",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 10000000.0,
+   "verified": true,
+   "notes": "Commercial organisations explicitly eligible, international; preclinical→Ph1 antivirals for pandemic viruses — best fit for Denovo's RNA-virus binders. Last RFPs 2022–23; watch for new rounds."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

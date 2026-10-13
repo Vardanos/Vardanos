@@ -1,0 +1,24 @@
+{
+ "id": "019",
+ "hypothesis": "Wellcome Discovery Awards: Armenia (UMIC) is eligible under current rules for applications submitted by 28 Oct 2026",
+ "kind": "add",
+ "add": [
+  {
+   "id": "wellcome-discovery",
+   "funder": "Wellcome",
+   "program": "Discovery Awards",
+   "url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "closed",
+   "max_award_usd": 5000000.0,
+   "verified": true,
+   "notes": "From 29 Oct 2026 lead applicants must be in UK or LMICs in Africa/South & SE Asia — Armenia drops out; effectively closed for Denovo."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "059",
+ "hypothesis": "EIC Pathfinder: Open needs a 3-country consortium (next 2027); Challenges (deadline 28 Oct 2026) allow single applicants",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eic-pathfinder-open",
+   "funder": "European Innovation Council",
+   "program": "EIC Pathfinder Open",
+   "url": "https://iuk-business-connect.org.uk/?p=126582",
+   "eligibility": "as_partner",
+   "topic": "deep_tech_ai",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 4300000.0,
+   "verified": true,
+   "notes": "Up to €4M at 100%; ≥3 entities, 3 countries; 2026 deadline 12 May passed — target 2027 with Emory/EU lab partners."
+  },
+  {
+   "id": "eic-pathfinder-challenges",
+   "funder": "European Innovation Council",
+   "program": "EIC Pathfinder Challenges",
+   "url": "https://www.usi.ch/it/feeds/33534",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "open",
+   "max_award_usd": 4300000.0,
+   "verified": true,
+   "notes": "Deadline 28 Oct 2026; single applicants allowed; check whether a 2026 challenge topic fits AI-designed therapeutics before investing effort."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,24 @@
+{
+ "id": "036",
+ "hypothesis": "Hevolution funds ageing biology/drug discovery worldwide",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hevolution",
+   "funder": "Hevolution Foundation",
+   "program": "Research grants / conferences fund",
+   "url": "https://www.developmentaid.org/grants/view/1650321/apply-for-hevolution-foundations-scientific-conferences-fund",
+   "eligibility": "ineligible",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 10000.0,
+   "verified": true,
+   "notes": "Only open call is a conference fund restricted to N. America/EU/UK."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

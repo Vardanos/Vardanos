@@ -1,0 +1,24 @@
+{
+ "id": "030",
+ "hypothesis": "NVIDIA Inception gives AI startups GPU/cloud credit offers and DGX Cloud discounts",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nvidia-inception",
+   "funder": "NVIDIA",
+   "program": "Inception program",
+   "url": "https://www.nvidia.com/en-us/startups/",
+   "eligibility": "direct",
+   "topic": "ai_drug_discovery",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Free; BioNeMo/Clara drug-discovery stack, partner cloud credits, investor network (non-cash)."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "008",
+ "hypothesis": "Armenian Ministry of High-Tech Industry startup schemes provide direct grants",
+ "kind": "add",
+ "add": [
+  {
+   "id": "mhti-idea-to-business",
+   "funder": "Ministry of High-Tech Industry (RA)",
+   "program": "'From Idea to Business' grant programme",
+   "url": "https://hightech.gov.am/en/projects/dramasnorhner/paymanagrer",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Listed on ministry site; amounts/dates not published in English — confirm with ministry."
+  },
+  {
+   "id": "mhti-neruzh",
+   "funder": "Ministry of High-Tech Industry (RA)",
+   "program": "Neruzh diaspora tech startup programme",
+   "url": "https://gust.com/programs/neruzh-6-0-diaspora-tech-startup-program",
+   "eligibility": "ineligible",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "For diaspora founders relocating to Armenia — Denovo's founders are local."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

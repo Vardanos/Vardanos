@@ -1,0 +1,24 @@
+{
+ "id": "041",
+ "hypothesis": "EuroHPC AI Factories give free GPU time to AI SMEs/startups in EU & associated countries — direct compute subsidy for generative chemistry",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eurohpc-ai-factories",
+   "funder": "EuroHPC Joint Undertaking",
+   "program": "AI Factories access (Industrial Innovation track)",
+   "url": "https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes/playground-access-ai-factories_en",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "rolling",
+   "max_award_usd": 500000.0,
+   "verified": false,
+   "notes": "Free-of-charge supercomputer GPU hours for AI SMEs (Playground/Fast Lane ≤50k GPU-h/Large Scale); associated-country eligibility to confirm."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

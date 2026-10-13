@@ -1,0 +1,24 @@
+{
+ "id": "070",
+ "hypothesis": "Novo Holdings REPAIR Impact Fund backs early AMR companies",
+ "kind": "add",
+ "add": [
+  {
+   "id": "repair-fund",
+   "funder": "Novo Holdings",
+   "program": "REPAIR Impact Fund",
+   "url": "https://www.repair-impact-fund.com/about/",
+   "eligibility": "ineligible",
+   "topic": "therapeutic_area",
+   "instrument": "other",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "closed",
+   "max_award_usd": 15000000.0,
+   "verified": true,
+   "notes": "No new calls; Europe/US only; investment not grant."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

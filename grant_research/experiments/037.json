@@ -1,0 +1,24 @@
+{
+ "id": "037",
+ "hypothesis": "HESC bilateral calls (Italy CNR, Moldova, France PHC Ararat…) fund joint projects through Armenian institutes",
+ "kind": "add",
+ "add": [
+  {
+   "id": "hesc-bilateral",
+   "funder": "Higher Education and Science Committee (RA)",
+   "program": "Bilateral joint research calls (Italy, Moldova, others)",
+   "url": "https://www.hesc.am/?p=14685",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": 30000.0,
+   "verified": true,
+   "notes": "Small, academic-led; useful to fund a European wet-lab collaborator via an Armenian institute."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

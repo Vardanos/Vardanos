@@ -1,0 +1,24 @@
+{
+ "id": "062",
+ "hypothesis": "Coefficient Giving (ex-Open Philanthropy) Science & Global Health R&D funds preclinical drug work",
+ "kind": "add",
+ "add": [
+  {
+   "id": "coefficient-giving",
+   "funder": "Coefficient Giving (formerly Open Philanthropy)",
+   "program": "Science and Global Health R&D",
+   "url": "https://www.longtermwiki.com/organizations/coefficient-giving/funding-programs",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": 1000000.0,
+   "verified": false,
+   "notes": "$100M+/yr, mostly proactively sourced; pitch an LMIC-burden antiviral/antibiotic project."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

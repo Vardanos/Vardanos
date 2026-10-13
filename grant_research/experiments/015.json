@@ -1,0 +1,24 @@
+{
+ "id": "015",
+ "hypothesis": "US DoD CDMRP allows foreign for-profit applicants by default — programmes cover rare disease, cancer, infectious disease",
+ "kind": "add",
+ "add": [
+  {
+   "id": "cdmrp",
+   "funder": "US DoD — CDMRP",
+   "program": "Congressionally Directed Medical Research Programs (PRMRP, cancer programmes…)",
+   "url": "https://cdmrp.health.mil/funding/apply",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 2000000.0,
+   "verified": true,
+   "notes": "Foreign & for-profit eligible unless an announcement says otherwise; needs SAM/UEI; PRMRP topic list often includes rare diseases and antimicrobial resistance."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

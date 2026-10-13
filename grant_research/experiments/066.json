@@ -1,0 +1,24 @@
+{
+ "id": "066",
+ "hypothesis": "Wellcome Leap programmes accept any legal entity in any jurisdiction, companies included",
+ "kind": "add",
+ "add": [
+  {
+   "id": "wellcome-leap",
+   "funder": "Wellcome Leap",
+   "program": "Named, milestone-driven health programmes",
+   "url": "https://wellcomeleap.org/programs/dr/faq/",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 5000000.0,
+   "verified": true,
+   "notes": "DARPA-style programmes; companies (incl. venture-backed) are performers; watch for a programme on drug discovery/AMR."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

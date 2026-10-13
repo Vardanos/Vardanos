@@ -1,0 +1,39 @@
+{
+ "id": "086",
+ "hypothesis": "Academic compute programmes reach Denovo via university collaborators (AWS research credits, NVIDIA academic grants)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "aws-research-credits",
+   "funder": "Amazon Web Services",
+   "program": "Cloud Credit for Research",
+   "url": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+   "eligibility": "as_partner",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "rolling",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "Researchers at accredited institutions; via Emory/UCSD/Armenian institute."
+  },
+  {
+   "id": "nvidia-academic",
+   "funder": "NVIDIA",
+   "program": "Academic Grant Program",
+   "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+   "eligibility": "as_partner",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "GPU hardware/cloud hours for academic projects; via academic partner."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

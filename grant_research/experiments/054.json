@@ -1,0 +1,24 @@
+{
+ "id": "054",
+ "hypothesis": "Oncology discovery funders that accept PIs worldwide (Worldwide Cancer Research) — company joins as collaborator",
+ "kind": "add",
+ "add": [
+  {
+   "id": "wcr",
+   "funder": "Worldwide Cancer Research",
+   "program": "Discovery Research Grants",
+   "url": "https://www.worldwidecancerresearch.org/media/ar0ldauj/application-handbook-2026-full.pdf",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 350000.0,
+   "verified": true,
+   "notes": "Up to £275k; any country but PI must be at a not-for-profit — Armenian institute or partner lab leads; annual round ~Feb–Apr."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

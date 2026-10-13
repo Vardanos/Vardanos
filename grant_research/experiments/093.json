@@ -1,0 +1,24 @@
+{
+ "id": "093",
+ "hypothesis": "USAID innovation grants in Armenia",
+ "kind": "add",
+ "add": [
+  {
+   "id": "usaid-armenia",
+   "funder": "USAID",
+   "program": "Armenia innovation & competitiveness grants",
+   "url": "https://www.usaid.gov/armenia",
+   "eligibility": "direct",
+   "topic": "general",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "armenia",
+   "status": "closed",
+   "max_award_usd": null,
+   "verified": false,
+   "notes": "USAID dissolved in 2025; programmes ended."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

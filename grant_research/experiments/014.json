@@ -1,0 +1,24 @@
+{
+ "id": "014",
+ "hypothesis": "Gates Grand Challenges periodically fund AI/novel-chemistry antibiotic and LMIC drug discovery, open worldwide",
+ "kind": "add",
+ "add": [
+  {
+   "id": "gates-grand-challenges",
+   "funder": "Gates Foundation",
+   "program": "Grand Challenges RFPs (e.g. Gram-negative antibiotic discovery)",
+   "url": "https://gcgh.grandchallenges.org/sites/default/files/files/gram-negative_antibiotic_discovery_webinar_slides.pdf",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 1000000.0,
+   "verified": true,
+   "notes": "Topic-specific RFPs several times a year; the AI-for-antibiotic-discovery call (2025) closed — watch for repeats."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

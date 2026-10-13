@@ -1,0 +1,39 @@
+{
+ "id": "091",
+ "hypothesis": "Rare metabolic/lysosomal disease foundations also fund international researchers and biotechs (Sanfilippo, mitochondrial)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "cure-sanfilippo",
+   "funder": "Cure Sanfilippo Foundation",
+   "program": "Research grants",
+   "url": "https://curesanfilippofoundation.org/",
+   "eligibility": "direct",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "any_org",
+   "geo": "global",
+   "status": "intermittent",
+   "max_award_usd": 500000.0,
+   "verified": false,
+   "notes": "Funds academic and biotech projects internationally; small-molecule approaches welcome."
+  },
+  {
+   "id": "umdf",
+   "funder": "United Mitochondrial Disease Foundation",
+   "program": "Research grants",
+   "url": "https://www.umdf.org/",
+   "eligibility": "as_partner",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": false,
+   "notes": "International academic PIs; inborn errors of metabolism."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

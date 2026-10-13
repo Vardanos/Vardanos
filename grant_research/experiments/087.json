@@ -1,0 +1,24 @@
+{
+ "id": "087",
+ "hypothesis": "EuroHPC 'AI for Science' access mode is open to industry in associated countries for open research",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eurohpc-ai4science",
+   "funder": "EuroHPC Joint Undertaking",
+   "program": "AI for Science & Collaborative EU projects access",
+   "url": "https://eurohpc-ju.europa.eu/ai-factories/faqs-ai-factories_en",
+   "eligibility": "direct",
+   "topic": "deep_tech_ai",
+   "instrument": "compute_credits",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 300000.0,
+   "verified": true,
+   "notes": "Open to academia and industry in Member/associated countries; results must be published — fits a public benchmark of Denovo's generative model."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

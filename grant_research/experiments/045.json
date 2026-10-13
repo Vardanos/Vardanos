@@ -1,0 +1,24 @@
+{
+ "id": "045",
+ "hypothesis": "MSCA Staff Exchanges fund secondments between Denovo and academic partners (EU + worldwide)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "msca-se",
+   "funder": "European Commission — MSCA",
+   "program": "Staff Exchanges",
+   "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-staff-exchanges-2026",
+   "eligibility": "as_partner",
+   "topic": "general",
+   "instrument": "fellowship_mobility",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 100000.0,
+   "verified": true,
+   "notes": "Annual (deadline ~April); funds secondments of Denovo staff to/from EU labs and Emory/UCSD-type partners."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

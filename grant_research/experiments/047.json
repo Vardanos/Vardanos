@@ -1,0 +1,24 @@
+{
+ "id": "047",
+ "hypothesis": "MSCA Doctoral Networks (industrial doctorates) fund PhD students co-hosted by SMEs",
+ "kind": "add",
+ "add": [
+  {
+   "id": "msca-dn",
+   "funder": "European Commission — MSCA",
+   "program": "Doctoral Networks (industrial doctorates)",
+   "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks",
+   "eligibility": "as_partner",
+   "topic": "general",
+   "instrument": "fellowship_mobility",
+   "stage": "any_org",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": 300000.0,
+   "verified": false,
+   "notes": "Join a consortium as beneficiary; annual deadline ~November."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

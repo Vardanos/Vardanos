@@ -1,0 +1,24 @@
+{
+ "id": "012",
+ "hypothesis": "EIT Health Catapult accepts startups from Horizon-associated countries (needs ≥€0.5M raised — Denovo reports ~$1.3M)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "eit-health-catapult",
+   "funder": "EIT Health",
+   "program": "Catapult start-up competition",
+   "url": "https://www.eit.europa.eu/news-events/news/eit-health-catapult-10th-edition-semifinals",
+   "eligibility": "direct",
+   "topic": "life_sciences",
+   "instrument": "prize",
+   "stage": "startup_sme",
+   "geo": "regional",
+   "status": "recurring",
+   "max_award_usd": null,
+   "verified": true,
+   "notes": "Associated-country startups eligible; <50 staff, ≥€500k raised; deadline ~April each year. Mostly visibility + investor access."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "076",
+ "hypothesis": "Subsidiary routes: Innovate UK and India's BIRAC fund only locally registered companies (Mankind Pharma tie-in for India)",
+ "kind": "add",
+ "add": [
+  {
+   "id": "birac-big",
+   "funder": "BIRAC (India, DBT)",
+   "program": "Biotechnology Ignition Grant / BIPP",
+   "url": "https://birac.nic.in/",
+   "eligibility": "needs_foreign_entity",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 60000.0,
+   "verified": false,
+   "notes": "Indian-registered company required; BIG up to INR 50 lakh; consider only with an Indian JV/subsidiary."
+  },
+  {
+   "id": "innovate-uk-bmc",
+   "funder": "Innovate UK",
+   "program": "Biomedical Catalyst",
+   "url": "https://www.ukri.org/councils/innovate-uk/",
+   "eligibility": "needs_foreign_entity",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "global",
+   "status": "recurring",
+   "max_award_usd": 5000000.0,
+   "verified": false,
+   "notes": "UK-registered SME required."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

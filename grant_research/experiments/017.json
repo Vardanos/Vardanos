@@ -1,0 +1,24 @@
+{
+ "id": "017",
+ "hypothesis": "NIH SBIR/STTR is the largest US small-business pool — but requires a US-owned, US-based company",
+ "kind": "add",
+ "add": [
+  {
+   "id": "nih-sbir",
+   "funder": "US National Institutes of Health",
+   "program": "SBIR/STTR",
+   "url": "https://seed.nih.gov/small-business-funding",
+   "eligibility": "needs_foreign_entity",
+   "topic": "therapeutic_area",
+   "instrument": "grant",
+   "stage": "startup_sme",
+   "geo": "partner_country",
+   "status": "recurring",
+   "max_award_usd": 2000000.0,
+   "verified": true,
+   "notes": ">50% US ownership and US operations required; only via a US subsidiary meeting those rules."
+  }
+ ],
+ "update": {},
+ "remove": []
+}

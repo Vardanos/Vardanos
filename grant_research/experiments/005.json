@@ -1,0 +1,24 @@
+{
+ "id": "005",
+ "hypothesis": "FAST ADVANCE research grants pair international scientists with Armenian groups — a route to fund wet-lab validation",
+ "kind": "add",
+ "add": [
+  {
+   "id": "fast-advance",
+   "funder": "Foundation for Armenian Science and Technology (FAST)",
+   "program": "ADVANCE STEM Research Grants",
+   "url": "https://fast.foundation/en/programs/all",
+   "eligibility": "as_partner",
+   "topic": "life_sciences",
+   "instrument": "grant",
+   "stage": "academic_led",
+   "geo": "armenia",
+   "status": "recurring",
+   "max_award_usd": 65000.0,
+   "verified": true,
+   "notes": "~$65k; Denovo is already in FAST's STAN portfolio — warm relationship."
+  }
+ ],
+ "update": {},
+ "remove": []
+}
