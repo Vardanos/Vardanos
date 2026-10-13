@@ -22,11 +22,11 @@ RAW = {
     "authorships": [
         {"author": {"id": "https://openalex.org/A1", "display_name": "A. Chilingarian", "orcid": None},
          "countries": ["AM"],
-         "institutions": [{"id": "https://openalex.org/I1", "display_name": "AANL", "country_code": "AM",
+         "institutions": [{"id": "https://openalex.org/I1", "display_name": "AANL", "country_code": "AM", "type": "facility",
                            "ror": "https://ror.org/00ad27c73"}]},
         {"author": {"id": "https://openalex.org/A2", "display_name": "J. Doe", "orcid": None},
          "countries": ["DE"],
-         "institutions": [{"id": "https://openalex.org/I2", "display_name": "DESY", "country_code": "DE",
+         "institutions": [{"id": "https://openalex.org/I2", "display_name": "DESY", "country_code": "DE", "type": "company",
                            "ror": None}]},
     ],
 }
@@ -38,7 +38,8 @@ class PipelineTest(unittest.TestCase):
         self.assertEqual(w["id"], "W1")
         self.assertEqual(w["doi"], "10.1/abc")
         self.assertEqual(w["countries"], ["AM", "DE"])
-        self.assertEqual(w["armenian_institutions"], [{"id": "I1", "name": "AANL"}])
+        self.assertEqual(w["armenian_institutions"], [{"id": "I1", "name": "AANL", "type": "facility"}])
+        self.assertTrue(w["has_company"])
         self.assertEqual(w["field"], "Physics and Astronomy")
 
     def test_storage_roundtrip_is_deterministic(self):
@@ -52,14 +53,16 @@ class PipelineTest(unittest.TestCase):
 
     def test_stats(self):
         w = openalex.slim_work(RAW)
-        s = stats.compute([w, {**w, "id": "W2", "is_oa": False, "countries": ["AM"]}])
-        self.assertEqual(s["by_year"][2023], {"works": 2, "oa_works": 1, "citations": 14, "international": 1})
+        s = stats.compute([w, {**w, "id": "W2", "is_oa": False, "countries": ["AM"], "has_company": False}])
+        self.assertEqual(s["by_year"][2023],
+                         {"works": 2, "oa_works": 1, "citations": 14, "international": 1, "industry": 1})
+        self.assertEqual(s["by_sector"]["facility"], 2)
         self.assertEqual(s["by_country"]["DE"], 1)
         self.assertNotIn("AM", s["by_country"])
         self.assertEqual(s["by_institution"]["I1"], 2)
         with tempfile.TemporaryDirectory() as d:
             stats.write(s, Path(d) / "stats", Path(d) / "STATS.md")
-            self.assertIn("| 2023 | 2 | 50.0% | 50.0% | 14 |", (Path(d) / "STATS.md").read_text())
+            self.assertIn("| 2023 | 2 | 50.0% | 50.0% | 50.0% | 14 |", (Path(d) / "STATS.md").read_text())
 
 
 if __name__ == "__main__":

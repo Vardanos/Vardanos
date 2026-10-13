@@ -9,8 +9,8 @@ that builds it.
 | Path | Source | Contents |
 |---|---|---|
 | `institutions.csv` / `.json` | [ROR](https://ror.org) | Armenian research organisations: ROR ID, English and Armenian names, acronyms, type, city, founding year, website, Wikidata ID, parent organisations |
-| `works/<year>.jsonl.gz` | [OpenAlex](https://openalex.org) | One record per publication with ≥ 1 author affiliated with an Armenian institution: DOI, title, venue, type, language, open-access status, citations, research domain/field/subfield/topic, all authors with their affiliations, co-author countries |
-| `stats/*.csv` | derived | Works per year, field, type, venue, Armenian institution and collaborating country |
+| `works/<year>.jsonl.gz` | [OpenAlex](https://openalex.org) | One record per publication with ≥ 1 author affiliated with an Armenian institution: DOI, title, venue, type, language, open-access status, citations, research domain/field/subfield/topic, all authors with their affiliations and affiliation type (education, facility, company, healthcare, government, nonprofit…), co-author countries, whether any affiliation is a company |
+| `stats/*.csv` | derived | Works per year (incl. share with industry co-authors), field, type, venue, sector, Armenian institution (with type) and collaborating country |
 | `../STATS.md` | derived | Human-readable summary of the above |
 
 Work files are gzipped JSON Lines, sorted by OpenAlex ID and written
@@ -54,3 +54,6 @@ commits any changes. To set it up:
   any author has an institution in Armenia, so diaspora researchers abroad are
   not included.
 - Field classification is OpenAlex's automatically assigned *primary topic*.
+- Industry is measured through papers whose authors list a company. Most
+  industry R&D is never published this way (it shows up in patents and
+  products instead), so this undercounts it.

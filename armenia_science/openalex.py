@@ -28,9 +28,10 @@ def slim_work(w):
         insts = []
         for i in a.get("institutions") or []:
             iid = _short(i.get("id"))
-            insts.append({"id": iid, "name": i.get("display_name"), "country": i.get("country_code"), "ror": i.get("ror")})
+            insts.append({"id": iid, "name": i.get("display_name"), "country": i.get("country_code"),
+                          "type": i.get("type"), "ror": i.get("ror")})
             if i.get("country_code") == COUNTRY:
-                am_insts[iid] = i.get("display_name")
+                am_insts[iid] = (i.get("display_name"), i.get("type"))
         countries.update(c for c in a.get("countries") or [] if c)
         author = a.get("author") or {}
         authors.append({
@@ -58,7 +59,9 @@ def slim_work(w):
         "subfield": (topic.get("subfield") or {}).get("display_name"),
         "topic": topic.get("display_name"),
         "countries": sorted(countries),
-        "armenian_institutions": [{"id": k, "name": v} for k, v in sorted(am_insts.items())],
+        "armenian_institutions": [{"id": k, "name": n, "type": t} for k, (n, t) in sorted(am_insts.items())],
+        # Any company among the affiliations, Armenian or foreign: a marker of industry involvement.
+        "has_company": any(i["type"] == "company" for a in authors for i in a["institutions"]),
         "authors": authors,
     }
 
